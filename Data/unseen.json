@@ -1,0 +1,6829 @@
+[
+    
+  {
+    "word": "tricksy",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "y"
+    ],
+    "sememes": [
+      "sly"
+    ],
+    "definitions": "marked by skill in deception"
+  },
+  {
+    "word": "worshipful",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ful"
+    ],
+    "sememes": [
+      "glorious"
+    ],
+    "definitions": "showing great reverence for god"
+  },
+  {
+    "word": "mob",
+    "lexnames": [
+      "noun.group",
+      "verb.motion"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "despicable",
+      "fierce",
+      "assemble",
+      "mass",
+      "unable",
+      "human",
+      "guilty",
+      "MakeTrouble"
+    ],
+    "definitions": "an association of criminals"
+  },
+  {
+    "word": "perceivable",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "able"
+    ],
+    "sememes": [
+      "perception",
+      "able"
+    ],
+    "definitions": "capable of being perceived especially by sight or hearing"
+  },
+  {
+    "word": "rape",
+    "lexnames": [
+      "verb.contact",
+      "noun.act",
+      "noun.plant",
+      "verb.social"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "eat",
+      "rob",
+      "hair",
+      "part",
+      "guilty",
+      "mating",
+      "all",
+      "force",
+      "vegetable"
+    ],
+    "definitions": "Eurasian plant cultivated for its seed and as a forage crop"
+  },
+  {
+    "word": "intemperance",
+    "lexnames": [
+      "noun.act",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "in",
+      "temper",
+      "ance"
+    ],
+    "sememes": [
+      "fact",
+      "act",
+      "flighty",
+      "indulge"
+    ],
+    "definitions": "consumption of alcoholic drinks"
+  },
+  {
+    "word": "limestone",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "material",
+      "build"
+    ],
+    "definitions": "a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
+  },
+  {
+    "word": "bentonite",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "ite"
+    ],
+    "sememes": [],
+    "definitions": "an absorbent aluminum silicate clay formed from volcanic ash"
+  },
+  {
+    "word": "creamer",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "cream",
+      "er"
+    ],
+    "sememes": [],
+    "definitions": "a small pitcher for serving cream"
+  },
+  {
+    "word": "mitt",
+    "lexnames": [
+      "noun.body",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "sport",
+      "SportTool",
+      "baseball"
+    ],
+    "definitions": "the handwear used by fielders in playing baseball"
+  },
+  {
+    "word": "emancipate",
+    "lexnames": [
+      "verb.social"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "CauseToDo",
+      "act",
+      "prosper",
+      "free"
+    ],
+    "definitions": "give equal rights to ; of women and minorities"
+  },
+  {
+    "word": "distinguished",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fantastic",
+      "great",
+      "famous",
+      "FuncWord"
+    ],
+    "definitions": "used of a person 's appearance or behavior ; befitting an eminent person"
+  },
+  {
+    "word": "headsman",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "man"
+    ],
+    "sememes": [
+      "kill",
+      "human"
+    ],
+    "definitions": "an executioner who beheads the condemned person"
+  },
+  {
+    "word": "exploit",
+    "lexnames": [
+      "noun.act",
+      "verb.social",
+      "verb.consumption"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "accomplishment",
+      "fierce",
+      "use",
+      "fantastic"
+    ],
+    "definitions": "a notable achievement"
+  },
+  {
+    "word": "loony",
+    "lexnames": [
+      "noun.person",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "mad",
+      "human"
+    ],
+    "definitions": "someone deranged and possibly dangerous"
+  },
+  {
+    "word": "relentlessness",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "ness"
+    ],
+    "sememes": [
+      "fierce"
+    ],
+    "definitions": "mercilessness characterized by an unwillingness to relent or let up"
+  },
+  {
+    "word": "rascally",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "despicable"
+    ],
+    "definitions": "playful in an appealingly bold way"
+  },
+  {
+    "word": "louvre",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "InstitutePlace",
+      "ProperName",
+      "display"
+    ],
+    "definitions": "one of a set of parallel slats in a door or window to admit air and reject rain"
+  },
+  {
+    "word": "tag",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "verb.motion",
+      "verb.creation",
+      "verb.contact",
+      "noun.communication",
+      "verb.communication"
+    ],
+    "root_affix": [
+      "tag"
+    ],
+    "sememes": [
+      "express",
+      "mark",
+      "follow"
+    ],
+    "definitions": "provide with a name or nickname"
+  },
+  {
+    "word": "savior",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "religion",
+      "human",
+      "ProperName"
+    ],
+    "definitions": "a person who rescues you from harm or danger"
+  },
+  {
+    "word": "goaded",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "compelled forcibly by an outside agency"
+  },
+  {
+    "word": "squandering",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "ing"
+    ],
+    "sememes": [],
+    "definitions": "spending resources lavishly and wastefully"
+  },
+  {
+    "word": "sperm",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [
+      "sperm"
+    ],
+    "sememes": [
+      "AnimalHuman",
+      "part",
+      "BodyFluid",
+      "male",
+      "physiology"
+    ],
+    "definitions": "the male reproductive cell ; the male gamete"
+  },
+  {
+    "word": "tempered",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "adjusted or attuned by adding a counterbalancing element"
+  },
+  {
+    "word": "unbiased",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [
+      "fair"
+    ],
+    "definitions": "without bias"
+  },
+  {
+    "word": "decimal",
+    "lexnames": [
+      "noun.quantity",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "symbol",
+      "Quantity",
+      "system",
+      "math",
+      "calculate"
+    ],
+    "definitions": "a proper fraction whose denominator is a power of 10"
+  },
+  {
+    "word": "compulsorily",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "l",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in a manner that can not be evaded"
+  },
+  {
+    "word": "rabble",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "unable",
+      "human",
+      "mass"
+    ],
+    "definitions": "disparaging terms for the common people"
+  },
+  {
+    "word": "boiler",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "WarmUp",
+      "burn",
+      "tool",
+      "cook"
+    ],
+    "definitions": "sealed vessel where water is converted to steam"
+  },
+  {
+    "word": "inmate",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "police",
+      "associate",
+      "human",
+      "ill",
+      "reside",
+      "doctor",
+      "together",
+      "friend",
+      "SufferFrom",
+      "guilty",
+      "medical",
+      "detain"
+    ],
+    "definitions": "a person serving a sentence in a jail or prison"
+  },
+  {
+    "word": "assignor",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "assign",
+      "or"
+    ],
+    "sememes": [],
+    "definitions": "( law ) the party who makes an assignment"
+  },
+  {
+    "word": "imbecility",
+    "lexnames": [
+      "noun.act",
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "im",
+      "ility"
+    ],
+    "sememes": [
+      "unable",
+      "result",
+      "wrong",
+      "foolish"
+    ],
+    "definitions": "a stupid mistake"
+  },
+  {
+    "word": "leakage",
+    "lexnames": [
+      "noun.event"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "reveal",
+      "leak"
+    ],
+    "definitions": "the discharge of a fluid from some container"
+  },
+  {
+    "word": "shocker",
+    "lexnames": [
+      "noun.person",
+      "noun.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "urge",
+      "information",
+      "surprise",
+      "able"
+    ],
+    "definitions": "a shockingly bad person"
+  },
+  {
+    "word": "stomach",
+    "lexnames": [
+      "verb.cognition",
+      "verb.consumption",
+      "noun.body",
+      "noun.feeling"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "digest",
+      "AnimalHuman",
+      "endure",
+      "part",
+      "physiology",
+      "viscera"
+    ],
+    "definitions": "an appetite for food"
+  },
+  {
+    "word": "throw",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "noun.state",
+      "verb.motion",
+      "verb.creation",
+      "verb.contact",
+      "noun.event",
+      "verb.emotion",
+      "verb.cognition",
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "throw",
+      "manage",
+      "fact",
+      "ComeTogether"
+    ],
+    "definitions": "the maximum movement available to a pivoted or reciprocating piece by a cam"
+  },
+  {
+    "word": "unpersuaded",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [],
+    "definitions": "not converted"
+  },
+  {
+    "word": "glacier",
+    "lexnames": [
+      "noun.object"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ice"
+    ],
+    "definitions": "a slowly moving mass of ice"
+  },
+  {
+    "word": "mediastinum",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [
+      "media",
+      "s",
+      "tin",
+      "um"
+    ],
+    "sememes": [
+      "physiology",
+      "AnimalHuman",
+      "viscera",
+      "part"
+    ],
+    "definitions": "the part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus"
+  },
+  {
+    "word": "benighted",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "unscholarly"
+    ],
+    "definitions": "lacking enlightenment or knowledge or culture"
+  },
+  {
+    "word": "snakelike",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "snake",
+      "like"
+    ],
+    "sememes": [
+      "FormValue"
+    ],
+    "definitions": "resembling a serpent in form"
+  },
+  {
+    "word": "agouti",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "beast"
+    ],
+    "definitions": "agile long - legged rabbit - sized rodent of Central America and South America and the West Indies ; valued as food"
+  },
+  {
+    "word": "transsexualism",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "trans",
+      "sexual",
+      "ism"
+    ],
+    "sememes": [
+      "disease"
+    ],
+    "definitions": "condition in which a person assumes the identity and permanently acts the part of the gender opposite to his or her biological sex"
+  },
+  {
+    "word": "vilely",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in a vile manner"
+  },
+  {
+    "word": "disestablishment",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "dis"
+    ],
+    "sememes": [],
+    "definitions": "the act terminating an established state of affairs ; especially ending a connection with the Church of England"
+  },
+  {
+    "word": "amaretto",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [
+      "a",
+      "mar"
+    ],
+    "sememes": [],
+    "definitions": "an Italian almond liqueur"
+  },
+  {
+    "word": "velours",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [],
+    "definitions": "heavy fabric that resembles velvet"
+  },
+  {
+    "word": "ogress",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "o"
+    ],
+    "sememes": [
+      "humanized",
+      "vicious"
+    ],
+    "definitions": "( folklore ) a female ogre"
+  },
+  {
+    "word": "group",
+    "lexnames": [
+      "noun.Tops",
+      "verb.competition",
+      "noun.cognition",
+      "noun.substance",
+      "verb.cognition"
+    ],
+    "root_affix": [
+      "group"
+    ],
+    "sememes": [
+      "community",
+      "economy",
+      "physical",
+      "NounUnit",
+      "commerce",
+      "establish",
+      "InstitutePlace",
+      "group"
+    ],
+    "definitions": "a set that is closed , associative , has an identity element and every element has an inverse"
+  },
+  {
+    "word": "federalist",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "believe"
+    ],
+    "definitions": "an advocate of federalism"
+  },
+  {
+    "word": "affiliated",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "BeMember",
+      "undergo"
+    ],
+    "definitions": "being joined in close association"
+  },
+  {
+    "word": "filbert",
+    "lexnames": [
+      "noun.food",
+      "noun.plant"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "small nut - bearing tree much grown in Europe"
+  },
+  {
+    "word": "enclosing",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "en"
+    ],
+    "sememes": [],
+    "definitions": "the act of enclosing something inside something else"
+  },
+  {
+    "word": "twinkly",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "smiling with happiness or optimism"
+  },
+  {
+    "word": "ichthyosaur",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "past",
+      "beast"
+    ],
+    "definitions": "any of several marine reptiles of the Mesozoic having a body like a porpoise with dorsal and tail fins and paddle - shaped limbs"
+  },
+  {
+    "word": "sojourn",
+    "lexnames": [
+      "noun.act",
+      "verb.stative"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "reside"
+    ],
+    "definitions": "spend a certain length of time ; reside temporarily"
+  },
+  {
+    "word": "diffuser",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "diffuse",
+      "r"
+    ],
+    "sememes": [],
+    "definitions": "baffle that distributes sound waves evenly"
+  },
+  {
+    "word": "sisterhood",
+    "lexnames": [
+      "noun.group",
+      "noun.relation"
+    ],
+    "root_affix": [
+      "sister",
+      "hood"
+    ],
+    "sememes": [
+      "Attachment",
+      "AnimalHuman"
+    ],
+    "definitions": "a religious society of women who live together as sisters ( especially an order of nuns )"
+  },
+  {
+    "word": "troublesome",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "urge",
+      "difficult",
+      "upset",
+      "able"
+    ],
+    "definitions": "difficult to deal with"
+  },
+  {
+    "word": "scotoma",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "an isolated area of diminished vision within the visual field"
+  },
+  {
+    "word": "stabbing",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "painful as if caused by a sharp instrument"
+  },
+  {
+    "word": "defang",
+    "lexnames": [
+      "verb.change"
+    ],
+    "root_affix": [
+      "de"
+    ],
+    "sememes": [
+      "beast",
+      "part",
+      "physiology",
+      "bite",
+      "PickOut"
+    ],
+    "definitions": "remove the fangs from"
+  },
+  {
+    "word": "acquiring",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the act of acquiring something"
+  },
+  {
+    "word": "hemolysin",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "hemo",
+      "ly",
+      "s",
+      "in"
+    ],
+    "sememes": [],
+    "definitions": "any substance that can cause lysis ( destruction ) of erythrocytes ( red blood cells ) and the release of their hemoglobin"
+  },
+  {
+    "word": "reciter",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "r"
+    ],
+    "sememes": [
+      "recite",
+      "human"
+    ],
+    "definitions": "someone who recites from memory"
+  },
+  {
+    "word": "guy",
+    "lexnames": [
+      "noun.person",
+      "verb.change",
+      "verb.communication",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "adult",
+      "human",
+      "male"
+    ],
+    "definitions": "an informal term for a youth or man"
+  },
+  {
+    "word": "cryptology",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "crypt",
+      "ology"
+    ],
+    "sememes": [],
+    "definitions": "the science of analyzing and deciphering codes and ciphers and cryptograms"
+  },
+  {
+    "word": "couverture",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [
+      "c"
+    ],
+    "sememes": [],
+    "definitions": "chocolate that contains at least 32 percent cocoa butter"
+  },
+  {
+    "word": "turndown",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "turn",
+      "down"
+    ],
+    "sememes": [],
+    "definitions": "the act of refusing an offer"
+  },
+  {
+    "word": "amended",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "of legislation"
+  },
+  {
+    "word": "lovesick",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "love",
+      "sick"
+    ],
+    "sememes": [
+      "disease",
+      "ThinkOf"
+    ],
+    "definitions": "languishing because of love"
+  },
+  {
+    "word": "accurately",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "accurate"
+    ],
+    "definitions": "with few mistakes"
+  },
+  {
+    "word": "temperament",
+    "lexnames": [
+      "noun.act",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "ment"
+    ],
+    "sememes": [
+      "natural",
+      "AnimalHuman",
+      "human",
+      "group"
+    ],
+    "definitions": "excessive emotionalism or irritability and excitability ( especially when displayed openly )"
+  },
+  {
+    "word": "membership",
+    "lexnames": [
+      "noun.group",
+      "noun.state"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "BeMember",
+      "community",
+      "system",
+      "Attachment",
+      "human",
+      "Status",
+      "group"
+    ],
+    "definitions": "the state of being a member"
+  },
+  {
+    "word": "psychic",
+    "lexnames": [
+      "noun.person",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "mental"
+    ],
+    "definitions": "a person apparently sensitive to things beyond the natural range of perception"
+  },
+  {
+    "word": "species",
+    "lexnames": [
+      "noun.group",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "animate",
+      "Kind"
+    ],
+    "definitions": "( biology ) taxonomic group whose members can interbreed"
+  },
+  {
+    "word": "ruthlessness",
+    "lexnames": [
+      "noun.feeling",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "ness"
+    ],
+    "sememes": [
+      "fierce"
+    ],
+    "definitions": "mercilessness characterized by a lack of pity"
+  },
+  {
+    "word": "unseeing",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [
+      "Vfail",
+      "look"
+    ],
+    "definitions": "not consciously observing"
+  },
+  {
+    "word": "sand",
+    "lexnames": [
+      "noun.person",
+      "noun.substance",
+      "noun.attribute",
+      "verb.contact"
+    ],
+    "root_affix": [
+      "s",
+      "and"
+    ],
+    "sememes": [
+      "stone"
+    ],
+    "definitions": "a loose material consisting of grains of rock or coral"
+  },
+  {
+    "word": "androgen",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "location",
+      "AnimalHuman",
+      "part",
+      "drain",
+      "physical",
+      "body",
+      "internal"
+    ],
+    "definitions": "male sex hormone that is produced in the testes and responsible for typical male sexual characteristics"
+  },
+  {
+    "word": "autoloader",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "auto"
+    ],
+    "sememes": [],
+    "definitions": "a firearm that reloads itself"
+  },
+  {
+    "word": "disinfection",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "dis"
+    ],
+    "sememes": [
+      "ResultIn",
+      "AlterProperty",
+      "spotless",
+      "able",
+      "bacteria",
+      "disease",
+      "medical",
+      "kill"
+    ],
+    "definitions": "treatment to destroy harmful microorganisms"
+  },
+  {
+    "word": "bad",
+    "lexnames": [
+      "adv.all",
+      "noun.attribute",
+      "adj.all"
+    ],
+    "root_affix": [
+      "bad"
+    ],
+    "sememes": [
+      "urge",
+      "disgust",
+      "disadvantageous",
+      "inferior",
+      "able",
+      "wicked"
+    ],
+    "definitions": "physically unsound or diseased"
+  },
+  {
+    "word": "descend",
+    "lexnames": [
+      "verb.social",
+      "verb.change",
+      "verb.motion",
+      "verb.stative"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "GoDown"
+    ],
+    "definitions": "move downward and lower , but not necessarily all the way"
+  },
+  {
+    "word": "snitch",
+    "lexnames": [
+      "noun.person",
+      "verb.communication",
+      "verb.possession"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "police",
+      "human",
+      "accuse",
+      "reveal",
+      "Occupation",
+      "help"
+    ],
+    "definitions": "someone acting as an informer or decoy for the police"
+  },
+  {
+    "word": "activated",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "( of sewage ) treated with aeration and bacteria to aid decomposition"
+  },
+  {
+    "word": "sputter",
+    "lexnames": [
+      "verb.change",
+      "verb.perception",
+      "verb.motion",
+      "verb.body",
+      "noun.communication",
+      "noun.event",
+      "verb.communication"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [],
+    "definitions": "climb awkwardly , as if by scrambling"
+  },
+  {
+    "word": "measurably",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ably"
+    ],
+    "sememes": [],
+    "definitions": "to a measurable degree"
+  },
+  {
+    "word": "observance",
+    "lexnames": [
+      "noun.event",
+      "noun.act",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "obey",
+      "formal",
+      "fact",
+      "ComeTogether"
+    ],
+    "definitions": "a formal event performed on a special occasion"
+  },
+  {
+    "word": "nonsmoker",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "non"
+    ],
+    "sememes": [
+      "prohibit",
+      "LandVehicle",
+      "part",
+      "tour",
+      "human",
+      "load",
+      "refuse",
+      "addict"
+    ],
+    "definitions": "a person who does not smoke tobacco"
+  },
+  {
+    "word": "gem",
+    "lexnames": [
+      "noun.person",
+      "noun.food",
+      "noun.artifact",
+      "noun.substance"
+    ],
+    "root_affix": [
+      "gem"
+    ],
+    "sememes": [
+      "treasure",
+      "material"
+    ],
+    "definitions": "a precious or semiprecious stone incorporated into a piece of jewelry"
+  },
+  {
+    "word": "antipodean",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "relating to the antipodes or situated at opposite sides of the earth"
+  },
+  {
+    "word": "overheating",
+    "lexnames": [
+      "noun.process"
+    ],
+    "root_affix": [
+      "over"
+    ],
+    "sememes": [],
+    "definitions": "excessive heating"
+  },
+  {
+    "word": "refreshing",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ing"
+    ],
+    "sememes": [
+      "new",
+      "happy",
+      "FuncWord"
+    ],
+    "definitions": "imparting vitality and energy"
+  },
+  {
+    "word": "bocci",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "Italian bowling played on a long narrow dirt court"
+  },
+  {
+    "word": "vinyl",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "chemical"
+    ],
+    "definitions": "a univalent chemical radical derived from ethylene"
+  },
+  {
+    "word": "deservedly",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "as deserved"
+  },
+  {
+    "word": "grouped",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "group",
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "arranged into groups"
+  },
+  {
+    "word": "likening",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "like"
+    ],
+    "sememes": [],
+    "definitions": "the act of comparing similarities"
+  },
+  {
+    "word": "choreographer",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "entertainment",
+      "compile",
+      "human",
+      "Occupation",
+      "shows"
+    ],
+    "definitions": "someone who creates new dances"
+  },
+  {
+    "word": "complacency",
+    "lexnames": [
+      "noun.feeling"
+    ],
+    "root_affix": [
+      "ency"
+    ],
+    "sememes": [
+      "satisfied"
+    ],
+    "definitions": "the feeling you have when you are satisfied with yourself"
+  },
+  {
+    "word": "noncombustible",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "non"
+    ],
+    "sememes": [
+      "inanimate",
+      "burn",
+      "lighting"
+    ],
+    "definitions": "not capable of igniting and burning"
+  },
+  {
+    "word": "cloyingly",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in an overly sweet manner"
+  },
+  {
+    "word": "persuader",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "er"
+    ],
+    "sememes": [
+      "human",
+      "persuade"
+    ],
+    "definitions": "someone who tries to persuade or induce or lead on"
+  },
+  {
+    "word": "juggle",
+    "lexnames": [
+      "verb.contact",
+      "noun.act",
+      "verb.social"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "deceive",
+      "IllTreat",
+      "entertainment",
+      "shows",
+      "perform"
+    ],
+    "definitions": "manipulate by or as if by moving around components"
+  },
+  {
+    "word": "oxazepam",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "ox",
+      "azepam"
+    ],
+    "sememes": [],
+    "definitions": "a tranquilizing drug ( trade name Serax ) used to treat anxiety and insomnia and alcohol withdrawal"
+  },
+  {
+    "word": "calcination",
+    "lexnames": [
+      "noun.process"
+    ],
+    "root_affix": [
+      "calc",
+      "in",
+      "ation"
+    ],
+    "sememes": [
+      "burn"
+    ],
+    "definitions": "the conversion of metals into their oxides as a result of heating to a high temperature"
+  },
+  {
+    "word": "nymph",
+    "lexnames": [
+      "noun.animal",
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "InsectWorm"
+    ],
+    "definitions": "a voluptuously beautiful young woman"
+  },
+  {
+    "word": "judicious",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "judicious"
+    ],
+    "sememes": [
+      "wise"
+    ],
+    "definitions": "marked by the exercise of good judgment or common sense in practical matters"
+  },
+  {
+    "word": "unavailing",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un",
+      "ing"
+    ],
+    "sememes": [
+      "useless"
+    ],
+    "definitions": "producing no result or effect"
+  },
+  {
+    "word": "reliving",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "re"
+    ],
+    "sememes": [],
+    "definitions": "a recurrence of a prior experience"
+  },
+  {
+    "word": "marabout",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "mar",
+      "about"
+    ],
+    "sememes": [],
+    "definitions": "large African black - and - white carrion - eating stork ; its downy underwing feathers are used to trim garments"
+  },
+  {
+    "word": "counterclockwise",
+    "lexnames": [
+      "adv.all",
+      "adj.all"
+    ],
+    "root_affix": [
+      "counter"
+    ],
+    "sememes": [
+      "backward"
+    ],
+    "definitions": "in the direction opposite to the rotation of the hands of a clock"
+  },
+  {
+    "word": "vodka",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "unaged colorless liquor originating in Russia"
+  },
+  {
+    "word": "spitter",
+    "lexnames": [
+      "noun.person",
+      "noun.act"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [],
+    "definitions": "an illegal pitch in which a foreign substance ( spit or Vaseline ) is applied to the ball by the pitcher before he throws it"
+  },
+  {
+    "word": "lingua",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "obtain",
+      "AnimalHuman",
+      "part",
+      "mouth",
+      "human",
+      "catch",
+      "physiology",
+      "army",
+      "military",
+      "enemy",
+      "Circumstances"
+    ],
+    "definitions": "a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+  },
+  {
+    "word": "coltish",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ish"
+    ],
+    "sememes": [],
+    "definitions": "given to merry frolicking"
+  },
+  {
+    "word": "fantastic",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "difficult",
+      "wrong",
+      "queer",
+      "fantastic",
+      "believe"
+    ],
+    "definitions": "existing in fancy only"
+  },
+  {
+    "word": "cloud",
+    "lexnames": [
+      "noun.state",
+      "verb.perception",
+      "verb.motion",
+      "noun.group",
+      "noun.phenomenon",
+      "verb.contact",
+      "verb.weather",
+      "verb.emotion",
+      "noun.object",
+      "verb.change"
+    ],
+    "root_affix": [
+      "cloud"
+    ],
+    "sememes": [],
+    "definitions": "a cause of worry or gloom or trouble"
+  },
+  {
+    "word": "decoding",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "de",
+      "coding"
+    ],
+    "sememes": [],
+    "definitions": "the activity of making clear or converting from code into plain text"
+  },
+  {
+    "word": "thin",
+    "lexnames": [
+      "verb.body",
+      "adv.all",
+      "verb.change",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "sparse",
+      "simple",
+      "fine",
+      "thin",
+      "bony",
+      "ize",
+      "insubstantial"
+    ],
+    "definitions": "relatively thin in consistency or low in density ; not viscous"
+  },
+  {
+    "word": "occupation",
+    "lexnames": [
+      "noun.act",
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "occupy",
+      "alive",
+      "Occupation",
+      "earn",
+      "affairs"
+    ],
+    "definitions": "the principal activity in your life that you do to earn money"
+  },
+  {
+    "word": "manifesto",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "politics",
+      "formal",
+      "text"
+    ],
+    "definitions": "a public declaration of intentions ( as issued by a political party or government )"
+  },
+  {
+    "word": "borstal",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "al"
+    ],
+    "sememes": [],
+    "definitions": "formerly a British reform school for youths considered too young to send to prison"
+  },
+  {
+    "word": "menage",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [
+      "men",
+      "age"
+    ],
+    "sememes": [],
+    "definitions": "a social unit living together"
+  },
+  {
+    "word": "rumba",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "verb.motion"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "shows",
+      "recreation"
+    ],
+    "definitions": "dance the rhumba"
+  },
+  {
+    "word": "expiatory",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "ex",
+      "pi",
+      "atory"
+    ],
+    "sememes": [],
+    "definitions": "having power to atone for or offered by way of expiation or propitiation"
+  },
+  {
+    "word": "unattractively",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "un",
+      "attractive",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in an unattractive manner"
+  },
+  {
+    "word": "entrapment",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "entice"
+    ],
+    "definitions": "a defense that claims the defendant would not have broken the law if not tricked into doing it by law enforcement officials"
+  },
+  {
+    "word": "housetop",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "house",
+      "top"
+    ],
+    "sememes": [
+      "head",
+      "house",
+      "part"
+    ],
+    "definitions": "the roof of a house"
+  },
+  {
+    "word": "functionality",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "functional",
+      "ity"
+    ],
+    "sememes": [],
+    "definitions": "capable of serving a purpose well"
+  },
+  {
+    "word": "dormitory",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "teach",
+      "education",
+      "study",
+      "InstitutePlace",
+      "house"
+    ],
+    "definitions": "a college or university building containing living quarters for students"
+  },
+  {
+    "word": "stepper",
+    "lexnames": [
+      "noun.animal",
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a horse trained to lift its feet high off the ground while walking or trotting"
+  },
+  {
+    "word": "ardently",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "eager",
+      "ardent"
+    ],
+    "definitions": "in an ardent manner"
+  },
+  {
+    "word": "hind",
+    "lexnames": [
+      "noun.animal",
+      "adj.all"
+    ],
+    "root_affix": [
+      "hind"
+    ],
+    "sememes": [
+      "hind"
+    ],
+    "definitions": "a female deer , especially an adult female red deer"
+  },
+  {
+    "word": "ingloriously",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "in",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in a dishonorable manner or to a dishonorable degree"
+  },
+  {
+    "word": "redcoat",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "red",
+      "coat"
+    ],
+    "sememes": [],
+    "definitions": "British soldier ; so - called because of his red coat ( especially during the American Revolution )"
+  },
+  {
+    "word": "romance",
+    "lexnames": [
+      "adj.pert",
+      "noun.state",
+      "verb.social",
+      "noun.attribute",
+      "noun.communication",
+      "verb.emotion",
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fact",
+      "text",
+      "literature",
+      "emotion"
+    ],
+    "definitions": "an exciting and mysterious quality ( as of a heroic time or adventure )"
+  },
+  {
+    "word": "insolubility",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "in"
+    ],
+    "sememes": [],
+    "definitions": "the property ( of a problem or difficulty ) that makes it impossible to solve"
+  },
+  {
+    "word": "butanone",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "but",
+      "an",
+      "one"
+    ],
+    "sememes": [],
+    "definitions": "colorless soluble flammable liquid ketone used as a solvent for resins and as a paint remover and in lacquers and cements and adhesives and cleaning fluids and celluloid"
+  },
+  {
+    "word": "snuffer",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "er"
+    ],
+    "sememes": [
+      "beast",
+      "swim",
+      "tool",
+      "break"
+    ],
+    "definitions": "a person who uses snuff"
+  },
+  {
+    "word": "fortress",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "military",
+      "facilities"
+    ],
+    "definitions": "a fortified defensive structure"
+  },
+  {
+    "word": "archdeacon",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "arch"
+    ],
+    "sememes": [],
+    "definitions": "( Anglican Church ) an ecclesiastical dignitary usually ranking just below a bishop"
+  },
+  {
+    "word": "bitters",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [
+      "bitter",
+      "s"
+    ],
+    "sememes": [],
+    "definitions": "alcoholic liquor flavored with bitter herbs and roots"
+  },
+  {
+    "word": "wind",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "verb.perception",
+      "verb.motion",
+      "verb.contact",
+      "noun.communication",
+      "noun.phenomenon",
+      "verb.stative"
+    ],
+    "root_affix": [
+      "wind"
+    ],
+    "sememes": [
+      "excrete",
+      "FormChange",
+      "wind",
+      "phenomena",
+      "circle",
+      "tighten",
+      "curved",
+      "coil",
+      "gas"
+    ],
+    "definitions": "air moving ( sometimes with considerable force ) from an area of high pressure to an area of low pressure"
+  },
+  {
+    "word": "broached",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "of a cask or barrel"
+  },
+  {
+    "word": "disorderly",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "chaotic",
+      "flighty"
+    ],
+    "definitions": "in utter disorder"
+  },
+  {
+    "word": "lifelong",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "life",
+      "long"
+    ],
+    "sememes": [
+      "TimeLong",
+      "lifespan"
+    ],
+    "definitions": "continuing through life"
+  },
+  {
+    "word": "blister",
+    "lexnames": [
+      "noun.state",
+      "noun.plant",
+      "verb.communication",
+      "noun.body",
+      "verb.change"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ExpressAgainst",
+      "AnimalHuman",
+      "part",
+      "phenomena",
+      "disease",
+      "skin",
+      "medical",
+      "swollen",
+      "appear"
+    ],
+    "definitions": "( pathology ) an elevation of the skin filled with serous fluid"
+  },
+  {
+    "word": "restricting",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "restricting the scope or freedom of action"
+  },
+  {
+    "word": "usury",
+    "lexnames": [
+      "noun.act",
+      "noun.possession"
+    ],
+    "root_affix": [
+      "us"
+    ],
+    "sememes": [
+      "expensive",
+      "lend",
+      "wealth",
+      "finance",
+      "money"
+    ],
+    "definitions": "the act of lending money at an exorbitant rate of interest"
+  },
+  {
+    "word": "deaconess",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a woman deacon"
+  },
+  {
+    "word": "substitutable",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "able",
+      "replace"
+    ],
+    "definitions": "( of words ) interchangeable in a given context without changing the import of the expression"
+  },
+  {
+    "word": "osteoblast",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [
+      "osteo",
+      "blast"
+    ],
+    "sememes": [],
+    "definitions": "a cell from which bone develops"
+  },
+  {
+    "word": "penumbra",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "pen"
+    ],
+    "sememes": [
+      "trace",
+      "lights"
+    ],
+    "definitions": "a fringe region of partial shadow around an umbra"
+  },
+  {
+    "word": "brass",
+    "lexnames": [
+      "noun.group",
+      "noun.substance",
+      "noun.artifact",
+      "noun.attribute"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "metal",
+      "material"
+    ],
+    "definitions": "the section of a band or orchestra that plays brass instruments"
+  },
+  {
+    "word": "platoon",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "army",
+      "military",
+      "part"
+    ],
+    "definitions": "a military unit that is a subdivision of a company ; usually has a headquarters and two or more squads ; usually commanded by a lieutenant"
+  },
+  {
+    "word": "nm",
+    "lexnames": [
+      "noun.quantity",
+      "noun.location"
+    ],
+    "root_affix": [
+      "n",
+      "m"
+    ],
+    "sememes": [],
+    "definitions": "a metric unit of length equal to one billionth of a meter"
+  },
+  {
+    "word": "outturn",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "out",
+      "turn"
+    ],
+    "sememes": [],
+    "definitions": "what is produced in a given time period"
+  },
+  {
+    "word": "violin",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "bowed stringed instrument that is the highest member of the violin family ; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+  },
+  {
+    "word": "lederhosen",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "ho",
+      "sen"
+    ],
+    "sememes": [],
+    "definitions": "leather shorts often worn with suspenders ; worn especially by men and boys in Bavaria"
+  },
+  {
+    "word": "inoculate",
+    "lexnames": [
+      "verb.change",
+      "verb.communication",
+      "verb.body"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "disease",
+      "doctor",
+      "medical",
+      "obstruct"
+    ],
+    "definitions": "insert a bud for propagation"
+  },
+  {
+    "word": "either",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "neg",
+      "FuncWord",
+      "double",
+      "3rdPerson"
+    ],
+    "definitions": "after a negative statement used as an intensive meaning something like ` likewise ' or ` also '"
+  },
+  {
+    "word": "doctrinally",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "as a matter of doctrine"
+  },
+  {
+    "word": "swordtail",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "tail"
+    ],
+    "sememes": [],
+    "definitions": "freshwater fish of Central America having a long swordlike tail ; popular aquarium fish"
+  },
+  {
+    "word": "phytoplankton",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "phyto"
+    ],
+    "sememes": [
+      "plant"
+    ],
+    "definitions": "photosynthetic or plant constituent of plankton ; mainly unicellular algae"
+  },
+  {
+    "word": "pia",
+    "lexnames": [
+      "noun.plant"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ProperName",
+      "engage",
+      "transport",
+      "InstitutePlace",
+      "aircraft",
+      "affairs"
+    ],
+    "definitions": "perennial herb of East Indies to Polynesia and Australia ; cultivated for its large edible root yielding Otaheite arrowroot starch"
+  },
+  {
+    "word": "fruitlessly",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "fruit",
+      "less",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in an unproductive manner"
+  },
+  {
+    "word": "armadillo",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "beast"
+    ],
+    "definitions": "burrowing chiefly nocturnal mammal with body covered with strong horny plates"
+  },
+  {
+    "word": "mastered",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "master",
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "understood perfectly"
+  },
+  {
+    "word": "transgendered",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "involving a partial or full reversal of gender"
+  },
+  {
+    "word": "saquinavir",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "s",
+      "a",
+      "vir"
+    ],
+    "sememes": [],
+    "definitions": "a weak protease inhibitor ( trade name Invirase ) used in treating HIV"
+  },
+  {
+    "word": "aurochs",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "au",
+      "s"
+    ],
+    "sememes": [
+      "beast"
+    ],
+    "definitions": "European bison having a smaller and higher head than the North American bison"
+  },
+  {
+    "word": "pelota",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "ta"
+    ],
+    "sememes": [],
+    "definitions": "a Basque or Spanish game played in a court with a ball and a wickerwork racket"
+  },
+  {
+    "word": "testament",
+    "lexnames": [
+      "noun.communication",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "die",
+      "fulfil",
+      "expect",
+      "text",
+      "aspiration"
+    ],
+    "definitions": "a legal document declaring a person 's wishes regarding the disposal of their property when they die"
+  },
+  {
+    "word": "procure",
+    "lexnames": [
+      "verb.consumption",
+      "verb.possession"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "obtain",
+      "entice",
+      "SeekPleasure",
+      "human",
+      "earn"
+    ],
+    "definitions": "get by special effort"
+  },
+  {
+    "word": "litmus",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "Color",
+      "material"
+    ],
+    "definitions": "a coloring material ( obtained from lichens ) that turns red in acid solutions and blue in alkaline solutions ; used as a very rough acid - base indicator"
+  },
+  {
+    "word": "strabismus",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "stra",
+      "bis",
+      "mus"
+    ],
+    "sememes": [
+      "disease",
+      "eye",
+      "AnimalHuman",
+      "part"
+    ],
+    "definitions": "abnormal alignment of one or both eyes"
+  },
+  {
+    "word": "churn",
+    "lexnames": [
+      "verb.contact",
+      "verb.motion",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "machine",
+      "mix",
+      "roll",
+      "industrial"
+    ],
+    "definitions": "be agitated"
+  },
+  {
+    "word": "ablate",
+    "lexnames": [
+      "verb.change"
+    ],
+    "root_affix": [
+      "ab",
+      "late"
+    ],
+    "sememes": [
+      "StateChange",
+      "liquid"
+    ],
+    "definitions": "remove an organ or bodily structure"
+  },
+  {
+    "word": "reovirus",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "re",
+      "o",
+      "virus"
+    ],
+    "sememes": [
+      "ResultIn",
+      "able",
+      "bacteria",
+      "disease",
+      "medical"
+    ],
+    "definitions": "any of a group of non - arboviruses including the rotavirus causing infant enteritis"
+  },
+  {
+    "word": "dressage",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "dress",
+      "age"
+    ],
+    "sememes": [
+      "sport",
+      "fact",
+      "compete"
+    ],
+    "definitions": "maneuvers of a horse in response to body signals by the rider"
+  },
+  {
+    "word": "encoding",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "en",
+      "coding"
+    ],
+    "sememes": [
+      "symbol",
+      "classified",
+      "AlterProperty",
+      "fact"
+    ],
+    "definitions": "the activity of converting data or information into code"
+  },
+  {
+    "word": "teens",
+    "lexnames": [
+      "noun.quantity",
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the time of life between the ages of 12 and 20"
+  },
+  {
+    "word": "expressible",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "express",
+      "ible"
+    ],
+    "sememes": [
+      "express",
+      "able"
+    ],
+    "definitions": "capable of being expressed"
+  },
+  {
+    "word": "soggy",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "having the consistency of dough because of insufficient leavening or improper cooking ; it 's a doughy mess \""
+  },
+  {
+    "word": "implementation",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "conduct",
+      "fulfil"
+    ],
+    "definitions": "the act of implementing ( providing a practical means for accomplishing something ) ; carrying into effect"
+  },
+  {
+    "word": "used",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "used"
+    ],
+    "sememes": [
+      "used",
+      "FuncWord"
+    ],
+    "definitions": "employed in accomplishing something"
+  },
+  {
+    "word": "dubiously",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "in a questionable and dubious manner"
+  },
+  {
+    "word": "piperacillin",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "piper",
+      "a",
+      "in"
+    ],
+    "sememes": [],
+    "definitions": "a synthetic type of penicillin antibiotic ( trade name Pipracil ) used for moderate to severe infections"
+  },
+  {
+    "word": "cerebrospinal",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "BodyFluid",
+      "AnimalHuman",
+      "physiology",
+      "part"
+    ],
+    "definitions": "of or relating to the brain and spinal cord"
+  },
+  {
+    "word": "liege",
+    "lexnames": [
+      "noun.person",
+      "noun.location",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "owing or owed feudal allegiance and service"
+  },
+  {
+    "word": "grammatically",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "grammatic",
+      "ally"
+    ],
+    "sememes": [
+      "language",
+      "regulation"
+    ],
+    "definitions": "in a grammatical manner"
+  },
+  {
+    "word": "sloth",
+    "lexnames": [
+      "noun.animal",
+      "noun.act",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "s",
+      "loth"
+    ],
+    "sememes": [
+      "lazy",
+      "beast"
+    ],
+    "definitions": "apathy and inactivity in the practice of virtue ( personified as one of the deadly sins )"
+  },
+  {
+    "word": "soppy",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [
+      "wet"
+    ],
+    "definitions": "effusively or insincerely emotional"
+  },
+  {
+    "word": "unreason",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [],
+    "definitions": "the state of being irrational ; lacking powers of understanding"
+  },
+  {
+    "word": "restaurant",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "eat",
+      "InstitutePlace",
+      "commerce"
+    ],
+    "definitions": "a building where people go to eat"
+  },
+  {
+    "word": "feudalism",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [
+      "ism"
+    ],
+    "sememes": [
+      "system",
+      "politics"
+    ],
+    "definitions": "the social system that developed in Europe in the 8th century ; vassals were protected by lords who they had to serve in war"
+  },
+  {
+    "word": "rollerblading",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "ing"
+    ],
+    "sememes": [
+      "slide",
+      "sport",
+      "exercise"
+    ],
+    "definitions": "skating using Rollerblades"
+  },
+  {
+    "word": "hutch",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "crude",
+      "small",
+      "house"
+    ],
+    "definitions": "a cage ( usually made of wood and wire mesh ) for small animals"
+  },
+  {
+    "word": "lieutenant",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fight",
+      "human",
+      "army",
+      "military",
+      "official"
+    ],
+    "definitions": "an officer holding a commissioned rank in the United States Navy or the United States Coast Guard ; below lieutenant commander and above lieutenant junior grade"
+  },
+  {
+    "word": "resonance",
+    "lexnames": [
+      "noun.phenomenon",
+      "noun.attribute",
+      "noun.relation"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "shiver",
+      "phenomena"
+    ],
+    "definitions": "a relationship of mutual understanding or trust and agreement between people"
+  },
+  {
+    "word": "pigmentation",
+    "lexnames": [
+      "noun.process",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "pigment",
+      "ation"
+    ],
+    "sememes": [
+      "AlterColor"
+    ],
+    "definitions": "coloration of living tissues by pigment"
+  },
+  {
+    "word": "overweening",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "over",
+      "ing"
+    ],
+    "sememes": [],
+    "definitions": "unrestrained , especially with regard to feelings"
+  },
+  {
+    "word": "oropharynx",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "cavity formed by the pharynx at the back of the mouth"
+  },
+  {
+    "word": "announcer",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "disseminate",
+      "entertainment",
+      "human",
+      "Content",
+      "Occupation",
+      "tell",
+      "perform"
+    ],
+    "definitions": "reads news , commercials on radio or television"
+  },
+  {
+    "word": "pigweed",
+    "lexnames": [
+      "noun.food",
+      "noun.plant"
+    ],
+    "root_affix": [
+      "pig",
+      "weed"
+    ],
+    "sememes": [
+      "FlowerGrass"
+    ],
+    "definitions": "leaves sometimes used as potherbs ; seeds used as cereal ; southern United States to Central America ; India and China"
+  },
+  {
+    "word": "intrusive",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "attack",
+      "military"
+    ],
+    "definitions": "thrusting inward"
+  },
+  {
+    "word": "leasehold",
+    "lexnames": [
+      "noun.possession"
+    ],
+    "root_affix": [
+      "lease",
+      "hold"
+    ],
+    "sememes": [],
+    "definitions": "land or property held under a lease"
+  },
+  {
+    "word": "overcompensation",
+    "lexnames": [
+      "noun.process",
+      "noun.possession"
+    ],
+    "root_affix": [
+      "over"
+    ],
+    "sememes": [],
+    "definitions": "( psychiatry ) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite"
+  },
+  {
+    "word": "nickelodeon",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "listen",
+      "tool",
+      "music"
+    ],
+    "definitions": "a cabinet containing an automatic record player ; records are played by inserting a coin"
+  },
+  {
+    "word": "creaminess",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "cream",
+      "iness"
+    ],
+    "sememes": [],
+    "definitions": "the property of having the thickness of heavy cream"
+  },
+  {
+    "word": "insignificant",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "in"
+    ],
+    "sememes": [
+      "negligible",
+      "few",
+      "insubstantial"
+    ],
+    "definitions": "devoid of importance , meaning , or force"
+  },
+  {
+    "word": "jeering",
+    "lexnames": [
+      "noun.communication",
+      "adj.all"
+    ],
+    "root_affix": [
+      "ring"
+    ],
+    "sememes": [],
+    "definitions": "showing your contempt by derision"
+  },
+  {
+    "word": "hob",
+    "lexnames": [
+      "noun.person",
+      "verb.contact",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "part",
+      "machine",
+      "cut",
+      "industrial"
+    ],
+    "definitions": "a hard steel edge tool used to cut gears"
+  },
+  {
+    "word": "reputability",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "bility"
+    ],
+    "sememes": [],
+    "definitions": "honorableness by virtue of being respectable and having a good reputation"
+  },
+  {
+    "word": "burry",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "bur",
+      "ry"
+    ],
+    "sememes": [
+      "FormValue",
+      "shape",
+      "own",
+      "pointed"
+    ],
+    "definitions": "having or covered with protective barbs or quills or spines or thorns or setae etc ."
+  },
+  {
+    "word": "marquise",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "e"
+    ],
+    "sememes": [
+      "human",
+      "royal",
+      "female"
+    ],
+    "definitions": "permanent canopy over an entrance of a hotel etc ."
+  },
+  {
+    "word": "fortnightly",
+    "lexnames": [
+      "adv.all",
+      "adj.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "publications"
+    ],
+    "definitions": "every two weeks"
+  },
+  {
+    "word": "estimate",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "noun.cognition",
+      "verb.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "calculate",
+      "estimate"
+    ],
+    "definitions": "judge to be probable"
+  },
+  {
+    "word": "erudite",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "knowledge",
+      "own",
+      "human",
+      "erudite",
+      "profound"
+    ],
+    "definitions": "having or showing profound knowledge"
+  },
+  {
+    "word": "nightfall",
+    "lexnames": [
+      "noun.time"
+    ],
+    "root_affix": [
+      "night",
+      "fall"
+    ],
+    "sememes": [
+      "specific",
+      "time",
+      "day",
+      "night",
+      "week"
+    ],
+    "definitions": "the time of day immediately following sunset"
+  },
+  {
+    "word": "unidentifiable",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un",
+      "able"
+    ],
+    "sememes": [],
+    "definitions": "impossible to identify"
+  },
+  {
+    "word": "hooking",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a golf shot that curves to the left for a right - handed golfer"
+  },
+  {
+    "word": "somber",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "dignified"
+    ],
+    "definitions": "grave or even gloomy in character"
+  },
+  {
+    "word": "chromosome",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "biology",
+      "animate",
+      "part"
+    ],
+    "definitions": "a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order"
+  },
+  {
+    "word": "metabolically",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ally"
+    ],
+    "sememes": [],
+    "definitions": "involving metabolism"
+  },
+  {
+    "word": "sundried",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "sun"
+    ],
+    "sememes": [
+      "dry"
+    ],
+    "definitions": "dried naturally by the sun"
+  },
+  {
+    "word": "hypnotized",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ized"
+    ],
+    "sememes": [],
+    "definitions": "having your attention fixated as though by a spell"
+  },
+  {
+    "word": "pollock",
+    "lexnames": [
+      "noun.animal",
+      "noun.food",
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fish"
+    ],
+    "definitions": "important food and game fish of northern seas ( especially the northern Atlantic ) ; related to cod"
+  },
+  {
+    "word": "n",
+    "lexnames": [
+      "noun.substance",
+      "noun.communication",
+      "noun.quantity",
+      "noun.relation"
+    ],
+    "root_affix": [
+      "n"
+    ],
+    "sememes": [
+      "character"
+    ],
+    "definitions": "the 14th letter of the Roman alphabet"
+  },
+  {
+    "word": "swirl",
+    "lexnames": [
+      "verb.motion",
+      "noun.shape"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "rotate"
+    ],
+    "definitions": "flow in a circular current , of liquids"
+  },
+  {
+    "word": "cortical",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "cor",
+      "tical"
+    ],
+    "sememes": [
+      "AnimalHuman",
+      "part",
+      "head",
+      "physiology",
+      "internal"
+    ],
+    "definitions": "of or relating to a cortex"
+  },
+  {
+    "word": "revolt",
+    "lexnames": [
+      "verb.perception",
+      "noun.act",
+      "verb.social",
+      "verb.emotion"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "CauseToDo",
+      "disgust",
+      "uprise",
+      "fact",
+      "politics"
+    ],
+    "definitions": "fill with distaste"
+  },
+  {
+    "word": "ethylene",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "chemical"
+    ],
+    "definitions": "a flammable colorless gaseous alkene ; obtained from petroleum and natural gas and used in manufacturing many other chemicals ; sometimes used as an anesthetic"
+  },
+  {
+    "word": "indivisible",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "separate"
+    ],
+    "definitions": "impossible of undergoing division"
+  },
+  {
+    "word": "offhand",
+    "lexnames": [
+      "adv.all",
+      "adj.all"
+    ],
+    "root_affix": [
+      "off",
+      "hand"
+    ],
+    "sememes": [
+      "prompt",
+      "accidental",
+      "unintentional"
+    ],
+    "definitions": "with little or no preparation or forethought"
+  },
+  {
+    "word": "slough",
+    "lexnames": [
+      "noun.state",
+      "verb.body",
+      "noun.object"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [
+      "AnimalHuman",
+      "land",
+      "part",
+      "waters",
+      "remove",
+      "lose"
+    ],
+    "definitions": "any outer covering that can be shed or cast off ( such as the cast - off skin of a snake )"
+  },
+  {
+    "word": "roomy",
+    "lexnames": [
+      "noun.person",
+      "adj.all"
+    ],
+    "root_affix": [
+      "room",
+      "y"
+    ],
+    "sememes": [
+      "broad"
+    ],
+    "definitions": "( of buildings and rooms ) having ample space"
+  },
+  {
+    "word": "tribe",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "tribe"
+    ],
+    "definitions": "group of people related by blood or marriage"
+  },
+  {
+    "word": "depository",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "store",
+      "put",
+      "facilities"
+    ],
+    "definitions": "a facility where things can be deposited for storage or safekeeping"
+  },
+  {
+    "word": "trainer",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "teach",
+      "Occupation"
+    ],
+    "definitions": "one who trains other persons or animals"
+  },
+  {
+    "word": "homebound",
+    "lexnames": [
+      "noun.group",
+      "adj.all"
+    ],
+    "root_affix": [
+      "home",
+      "bound"
+    ],
+    "sememes": [
+      "leave",
+      "GoBack",
+      "family",
+      "neg"
+    ],
+    "definitions": "confined usually by illness"
+  },
+  {
+    "word": "dilute",
+    "lexnames": [
+      "verb.change",
+      "adj.all"
+    ],
+    "root_affix": [
+      "e"
+    ],
+    "sememes": [
+      "water",
+      "add"
+    ],
+    "definitions": "reduced in strength or concentration or quality or purity"
+  },
+  {
+    "word": "hooey",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [
+      "hoo"
+    ],
+    "sememes": [],
+    "definitions": "senseless talk"
+  },
+  {
+    "word": "untruth",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [
+      "deceive",
+      "text"
+    ],
+    "definitions": "a false statement"
+  },
+  {
+    "word": "blueprint",
+    "lexnames": [
+      "noun.cognition",
+      "noun.artifact",
+      "verb.creation"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "arrange",
+      "text",
+      "image",
+      "result",
+      "informal"
+    ],
+    "definitions": "something intended as a guide for making something else"
+  },
+  {
+    "word": "terrifying",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "urge",
+      "fear",
+      "able"
+    ],
+    "definitions": "causing extreme terror"
+  },
+  {
+    "word": "chine",
+    "lexnames": [
+      "noun.animal",
+      "noun.food",
+      "verb.contact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "physiology",
+      "AnimalHuman",
+      "bone",
+      "part"
+    ],
+    "definitions": "backbone of an animal"
+  },
+  {
+    "word": "phantom",
+    "lexnames": [
+      "noun.person",
+      "noun.cognition",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "image",
+      "fake"
+    ],
+    "definitions": "a ghostly appearing figure"
+  },
+  {
+    "word": "rafter",
+    "lexnames": [
+      "noun.person",
+      "verb.possession",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "building",
+      "bone",
+      "part"
+    ],
+    "definitions": "one of several parallel sloping beams that support a roof"
+  },
+  {
+    "word": "eating",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the act of consuming food"
+  },
+  {
+    "word": "mopes",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [],
+    "definitions": "an informal expression for a mildly depressed state"
+  },
+  {
+    "word": "thousand",
+    "lexnames": [
+      "noun.quantity",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "cardinal"
+    ],
+    "definitions": "denoting a quantity consisting of 1,000 items or units"
+  },
+  {
+    "word": "passbook",
+    "lexnames": [
+      "noun.possession"
+    ],
+    "root_affix": [
+      "pass",
+      "book"
+    ],
+    "sememes": [
+      "TakeBack",
+      "document",
+      "record",
+      "wealth",
+      "finance",
+      "SetAside",
+      "money"
+    ],
+    "definitions": "a record of deposits and withdrawals and interest held by depositors at certain banks"
+  },
+  {
+    "word": "stockroom",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "stock",
+      "room"
+    ],
+    "sememes": [],
+    "definitions": "storeroom for storing goods and supplies used in a business"
+  },
+  {
+    "word": "grunt",
+    "lexnames": [
+      "noun.animal",
+      "noun.person",
+      "noun.event",
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "MakeSound"
+    ],
+    "definitions": "medium - sized tropical marine food fishes that utter grunting sounds when caught"
+  },
+  {
+    "word": "smooching",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "ing"
+    ],
+    "sememes": [],
+    "definitions": "affectionate play ( or foreplay without contact with the genital organs )"
+  },
+  {
+    "word": "coffin",
+    "lexnames": [
+      "verb.contact",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "die",
+      "part",
+      "human",
+      "body",
+      "tool",
+      "store"
+    ],
+    "definitions": "place into a coffin"
+  },
+  {
+    "word": "interschool",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "inter",
+      "school"
+    ],
+    "sememes": [
+      "InstitutePlace",
+      "teach",
+      "education",
+      "study"
+    ],
+    "definitions": "used of competition or cooperation between secondary schools"
+  },
+  {
+    "word": "comfortless",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "comfort",
+      "less"
+    ],
+    "sememes": [],
+    "definitions": "without comfort"
+  },
+  {
+    "word": "solitaire",
+    "lexnames": [
+      "noun.animal",
+      "noun.act",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "sol"
+    ],
+    "sememes": [
+      "treasure",
+      "material"
+    ],
+    "definitions": "a dull grey North American thrush noted for its beautiful song"
+  },
+  {
+    "word": "stochasticity",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "s",
+      "to"
+    ],
+    "sememes": [],
+    "definitions": "the quality of lacking any predictable order or plan"
+  },
+  {
+    "word": "spellbound",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "spell",
+      "bound"
+    ],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "having your attention fixated as though by a spell"
+  },
+  {
+    "word": "rangeland",
+    "lexnames": [
+      "noun.object"
+    ],
+    "root_affix": [
+      "range",
+      "land"
+    ],
+    "sememes": [],
+    "definitions": "land suitable for grazing livestock"
+  },
+  {
+    "word": "craft",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "verb.creation",
+      "noun.group",
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "craft"
+    ],
+    "sememes": [
+      "knowledge",
+      "problem",
+      "human",
+      "Ability",
+      "handle",
+      "plan",
+      "celestial",
+      "use",
+      "aircraft"
+    ],
+    "definitions": "shrewdness as demonstrated by being skilled in deception"
+  },
+  {
+    "word": "emu",
+    "lexnames": [
+      "noun.animal",
+      "noun.quantity"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fly",
+      "neg",
+      "bird"
+    ],
+    "definitions": "any of various systems of units for measuring electricity and magnetism"
+  },
+  {
+    "word": "regent",
+    "lexnames": [
+      "noun.person",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "acting or functioning as a regent or ruler"
+  },
+  {
+    "word": "churchgoing",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "church",
+      "going"
+    ],
+    "sememes": [],
+    "definitions": "actively practicing a religion"
+  },
+  {
+    "word": "untimely",
+    "lexnames": [
+      "adv.all",
+      "adj.all"
+    ],
+    "root_affix": [
+      "un",
+      "time",
+      "ly"
+    ],
+    "sememes": [
+      "early",
+      "over",
+      "time"
+    ],
+    "definitions": "badly timed"
+  },
+  {
+    "word": "casserole",
+    "lexnames": [
+      "noun.food",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "tool",
+      "cook"
+    ],
+    "definitions": "food cooked and served in a casserole"
+  },
+  {
+    "word": "crankshaft",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "implement",
+      "part"
+    ],
+    "definitions": "a rotating shaft driven by ( or driving ) a crank"
+  },
+  {
+    "word": "attending",
+    "lexnames": [
+      "noun.act",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the process whereby a person concentrates on some features of the environment to the ( relative ) exclusion of others"
+  },
+  {
+    "word": "tugger",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "someone who pulls or tugs or drags in an effort to move something"
+  },
+  {
+    "word": "propellent",
+    "lexnames": [
+      "noun.substance",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "tending to or capable of propelling"
+  },
+  {
+    "word": "disbandment",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "ment"
+    ],
+    "sememes": [
+      "separate",
+      "remove"
+    ],
+    "definitions": "the act of disbanding"
+  },
+  {
+    "word": "stibnite",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [
+      "stone",
+      "mine"
+    ],
+    "definitions": "a soft grey mineral ; the chief ore of antimony"
+  },
+  {
+    "word": "peeled",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "( used informally ) completely unclothed"
+  },
+  {
+    "word": "sworn",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "s",
+      "worn"
+    ],
+    "sememes": [
+      "collateral",
+      "FuncWord"
+    ],
+    "definitions": "bound by or as if by an oath"
+  },
+  {
+    "word": "protruding",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "pro",
+      "ing"
+    ],
+    "sememes": [
+      "protruding",
+      "FuncWord"
+    ],
+    "definitions": "extending out above or beyond a surface or boundary"
+  },
+  {
+    "word": "elm",
+    "lexnames": [
+      "noun.plant"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "tree"
+    ],
+    "definitions": "hard tough wood of an elm tree ; used for e.g. implements and furniture"
+  },
+  {
+    "word": "third",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "adv.all",
+      "noun.quantity",
+      "adj.all",
+      "noun.communication",
+      "noun.relation"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ordinal"
+    ],
+    "definitions": "the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield ( counting counterclockwise from home plate )"
+  },
+  {
+    "word": "appetitive",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "ive"
+    ],
+    "sememes": [],
+    "definitions": "of or relating to appetite"
+  },
+  {
+    "word": "magnification",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "noun.artifact",
+      "noun.relation"
+    ],
+    "root_affix": [
+      "ion"
+    ],
+    "sememes": [
+      "MakeBetter",
+      "enlarge"
+    ],
+    "definitions": "making to seem more important than it really is"
+  },
+  {
+    "word": "hoarding",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "disseminate",
+      "commerce",
+      "facilities"
+    ],
+    "definitions": "large outdoor signboard"
+  },
+  {
+    "word": "theme",
+    "lexnames": [
+      "noun.communication",
+      "noun.cognition",
+      "verb.possession"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "part",
+      "text",
+      "Content",
+      "music"
+    ],
+    "definitions": "( music ) melodic subject of a musical composition"
+  },
+  {
+    "word": "quality",
+    "lexnames": [
+      "noun.state",
+      "noun.cognition",
+      "noun.attribute",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "Property",
+      "Quality",
+      "Rank",
+      "human",
+      "physical",
+      "event",
+      "HighQuality",
+      "entity"
+    ],
+    "definitions": "a degree or grade of excellence or worth"
+  },
+  {
+    "word": "slothfulness",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "s",
+      "loth",
+      "fulness"
+    ],
+    "sememes": [
+      "lazy"
+    ],
+    "definitions": "a disinclination to work or exert yourself"
+  },
+  {
+    "word": "monitory",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "y"
+    ],
+    "sememes": [],
+    "definitions": "serving to warn"
+  },
+  {
+    "word": "hyperpigmentation",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "hyper",
+      "pigment",
+      "ation"
+    ],
+    "sememes": [],
+    "definitions": "unusual darkening of the skin"
+  },
+  {
+    "word": "foreshock",
+    "lexnames": [
+      "noun.event"
+    ],
+    "root_affix": [
+      "fore"
+    ],
+    "sememes": [
+      "shiver",
+      "mishap",
+      "land"
+    ],
+    "definitions": "a tremor preceding an earthquake"
+  },
+  {
+    "word": "changeable",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "change",
+      "able"
+    ],
+    "sememes": [
+      "changeable"
+    ],
+    "definitions": "capable of or tending to change in form or quality or nature"
+  },
+  {
+    "word": "subsystem",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [
+      "sub",
+      "system"
+    ],
+    "sememes": [
+      "software"
+    ],
+    "definitions": "a system that is part of some larger system"
+  },
+  {
+    "word": "applique",
+    "lexnames": [
+      "noun.artifact",
+      "verb.creation"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "decorate",
+      "tool"
+    ],
+    "definitions": "a decorative design made of one material sewn over another"
+  },
+  {
+    "word": "automaton",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "on"
+    ],
+    "sememes": [
+      "automatic",
+      "implement"
+    ],
+    "definitions": "someone who acts or responds in a mechanical or apathetic way"
+  },
+  {
+    "word": "disjoint",
+    "lexnames": [
+      "verb.contact",
+      "verb.social",
+      "adj.all"
+    ],
+    "root_affix": [
+      "dis",
+      "joint"
+    ],
+    "sememes": [
+      "separate"
+    ],
+    "definitions": "part ; cease or break association with"
+  },
+  {
+    "word": "accumulate",
+    "lexnames": [
+      "verb.change",
+      "verb.possession"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "gather",
+      "BecomeMore",
+      "ComeTogether"
+    ],
+    "definitions": "get or gather together"
+  },
+  {
+    "word": "nonmetal",
+    "lexnames": [
+      "noun.substance",
+      "adj.all"
+    ],
+    "root_affix": [
+      "non",
+      "metal"
+    ],
+    "sememes": [
+      "metal",
+      "PropertyValue",
+      "BeNot"
+    ],
+    "definitions": "a chemical element lacking typical metallic properties"
+  },
+  {
+    "word": "polenta",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a thick mush made of cornmeal boiled in stock or water"
+  },
+  {
+    "word": "polytetrafluoroethylene",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "chemical"
+    ],
+    "definitions": "a material used to coat cooking utensils and in industrial applications where sticking is to be avoided"
+  },
+  {
+    "word": "turnout",
+    "lexnames": [
+      "noun.group",
+      "noun.act",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ordinary",
+      "select",
+      "mass",
+      "human",
+      "document",
+      "drop",
+      "place",
+      "Rate"
+    ],
+    "definitions": "a part of a road that has been widened to allow cars to pass or park"
+  },
+  {
+    "word": "naan",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [
+      "na",
+      "an"
+    ],
+    "sememes": [],
+    "definitions": "leavened bread baked in a clay oven in India ; usually shaped like a teardrop"
+  },
+  {
+    "word": "gudgeon",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fish"
+    ],
+    "definitions": "small slender European freshwater fish often used as bait by anglers"
+  },
+  {
+    "word": "cowtown",
+    "lexnames": [
+      "noun.location"
+    ],
+    "root_affix": [
+      "cow",
+      "town"
+    ],
+    "sememes": [],
+    "definitions": "a small town in a cattle - raising area of western North America"
+  },
+  {
+    "word": "sensitization",
+    "lexnames": [
+      "noun.process",
+      "noun.act",
+      "noun.state"
+    ],
+    "root_affix": [
+      "sensit",
+      "ization"
+    ],
+    "sememes": [
+      "lights",
+      "ize"
+    ],
+    "definitions": "rendering an organism sensitive to a serum by a series of injections"
+  },
+  {
+    "word": "urologist",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "excrete",
+      "doctor",
+      "human",
+      "disease",
+      "medical",
+      "Occupation"
+    ],
+    "definitions": "a specialist in urology"
+  },
+  {
+    "word": "brahminical",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "mini",
+      "cal"
+    ],
+    "sememes": [],
+    "definitions": "of or relating to or characteristic of a brahmin"
+  },
+  {
+    "word": "practical",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "substantial",
+      "fulfil"
+    ],
+    "definitions": "guided by practical experience and observation rather than theory"
+  },
+  {
+    "word": "stipulation",
+    "lexnames": [
+      "noun.act",
+      "noun.communication"
+    ],
+    "root_affix": [
+      "s",
+      "tip",
+      "ulation"
+    ],
+    "sememes": [
+      "regulation"
+    ],
+    "definitions": "( law ) an agreement or concession made by parties in a judicial proceeding ( or by their attorneys ) relating to the business before the court ; must be in writing unless they are part of the court record"
+  },
+  {
+    "word": "doubled",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "twice as great or many"
+  },
+  {
+    "word": "siloxane",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "e"
+    ],
+    "sememes": [],
+    "definitions": "any of a large class of compounds that have alternate silicon and oxygen atoms"
+  },
+  {
+    "word": "stratus",
+    "lexnames": [
+      "noun.object"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a large dark low cloud"
+  },
+  {
+    "word": "crossbill",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "cross",
+      "bill"
+    ],
+    "sememes": [],
+    "definitions": "finch with a bill whose tips cross when closed"
+  },
+  {
+    "word": "varicocele",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "vari",
+      "co"
+    ],
+    "sememes": [
+      "disease"
+    ],
+    "definitions": "dilatation of the veins associated with the spermatic cord in the testes"
+  },
+  {
+    "word": "billet",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "noun.artifact",
+      "verb.stative"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "house",
+      "metal",
+      "reside",
+      "material",
+      "alive",
+      "Occupation",
+      "earn",
+      "affairs"
+    ],
+    "definitions": "lodging for military personnel ( especially in a private home )"
+  },
+  {
+    "word": "unreliability",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "un",
+      "re"
+    ],
+    "sememes": [],
+    "definitions": "the trait of not being dependable or reliable"
+  },
+  {
+    "word": "climatically",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ally"
+    ],
+    "sememes": [],
+    "definitions": "with respect to climate"
+  },
+  {
+    "word": "secondly",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "second",
+      "ly"
+    ],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "in the second place"
+  },
+  {
+    "word": "anoxia",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "ano"
+    ],
+    "sememes": [
+      "lack",
+      "disease",
+      "chemical"
+    ],
+    "definitions": "severe hypoxia ; absence of oxygen in inspired gases or in arterial blood or in the tissues"
+  },
+  {
+    "word": "anticlimax",
+    "lexnames": [
+      "noun.communication",
+      "noun.event"
+    ],
+    "root_affix": [
+      "anti"
+    ],
+    "sememes": [],
+    "definitions": "a disappointing decline after a previous rise"
+  },
+  {
+    "word": "strengthen",
+    "lexnames": [
+      "verb.change",
+      "verb.body"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "MakeBetter",
+      "ize",
+      "sturdy"
+    ],
+    "definitions": "gain strength"
+  },
+  {
+    "word": "somewhere",
+    "lexnames": [
+      "adv.all",
+      "noun.location"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "location"
+    ],
+    "definitions": "an indefinite or unknown location"
+  },
+  {
+    "word": "ingratiating",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "calculated to please or gain favor"
+  },
+  {
+    "word": "conjunctivitis",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "conjuncti",
+      "s"
+    ],
+    "sememes": [
+      "AnimalHuman",
+      "part",
+      "disease",
+      "inflamed",
+      "eye"
+    ],
+    "definitions": "inflammation of the conjunctiva of the eye"
+  },
+  {
+    "word": "encumber",
+    "lexnames": [
+      "verb.contact"
+    ],
+    "root_affix": [
+      "en"
+    ],
+    "sememes": [
+      "obstruct"
+    ],
+    "definitions": "hold back"
+  },
+  {
+    "word": "ovate",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "te"
+    ],
+    "sememes": [],
+    "definitions": "of a leaf shape ; egg - shaped with the broader end at the base"
+  },
+  {
+    "word": "chorus",
+    "lexnames": [
+      "verb.creation",
+      "noun.group",
+      "noun.communication",
+      "noun.event",
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "community",
+      "fact",
+      "entertainment",
+      "shows",
+      "together",
+      "perform",
+      "sing",
+      "music"
+    ],
+    "definitions": "a group of people assembled to sing together"
+  },
+  {
+    "word": "tec",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "investigate",
+      "police",
+      "human"
+    ],
+    "definitions": "a police officer who investigates crimes"
+  },
+  {
+    "word": "inflation",
+    "lexnames": [
+      "noun.process",
+      "noun.act",
+      "noun.event",
+      "noun.attribute"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "phenomena",
+      "BecomeMore",
+      "feed",
+      "commerce",
+      "gas",
+      "enlarge",
+      "money"
+    ],
+    "definitions": "the act of filling something with air"
+  },
+  {
+    "word": "actuality",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "ity"
+    ],
+    "sememes": [
+      "true"
+    ],
+    "definitions": "the state of actually existing objectively"
+  },
+  {
+    "word": "carp",
+    "lexnames": [
+      "noun.animal",
+      "noun.food",
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "fish"
+    ],
+    "definitions": "raise trivial objections"
+  },
+  {
+    "word": "limbless",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "limb",
+      "less"
+    ],
+    "sememes": [],
+    "definitions": "having no limbs"
+  },
+  {
+    "word": "intentionally",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "with intention ; in an intentional manner"
+  },
+  {
+    "word": "vitiligo",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [
+      "li",
+      "go"
+    ],
+    "sememes": [
+      "disease",
+      "skin",
+      "AnimalHuman",
+      "part"
+    ],
+    "definitions": "an acquired skin disease characterized by patches of unpigmented skin ( often surrounded by a heavily pigmented border )"
+  },
+  {
+    "word": "slavish",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "s"
+    ],
+    "sememes": [
+      "timid"
+    ],
+    "definitions": "abjectly submissive ; characteristic of a slave or servant"
+  },
+  {
+    "word": "bouncer",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a person whose duty is to throw troublemakers out of a bar or public meeting"
+  },
+  {
+    "word": "butte",
+    "lexnames": [
+      "noun.location",
+      "noun.object"
+    ],
+    "root_affix": [
+      "but",
+      "te"
+    ],
+    "sememes": [],
+    "definitions": "a hill that rises abruptly from the surrounding region ; has a flat top and sloping sides"
+  },
+  {
+    "word": "deadwood",
+    "lexnames": [
+      "noun.plant",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "dead",
+      "wood"
+    ],
+    "sememes": [],
+    "definitions": "someone or something that is unwanted and unneeded"
+  },
+  {
+    "word": "headwind",
+    "lexnames": [
+      "noun.phenomenon"
+    ],
+    "root_affix": [
+      "head",
+      "wind"
+    ],
+    "sememes": [
+      "wind"
+    ],
+    "definitions": "wind blowing opposite to the path of a ship or aircraft"
+  },
+  {
+    "word": "governess",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "ness"
+    ],
+    "sememes": [
+      "human",
+      "family",
+      "female",
+      "teach"
+    ],
+    "definitions": "a woman entrusted with the care and supervision of a child ( especially in a private home )"
+  },
+  {
+    "word": "hated",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "treated with contempt"
+  },
+  {
+    "word": "technicality",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "technical",
+      "ity"
+    ],
+    "sememes": [],
+    "definitions": "a detail that is considered insignificant"
+  },
+  {
+    "word": "autism",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "phenomena",
+      "disease",
+      "medical",
+      "appear"
+    ],
+    "definitions": "( psychiatry ) an abnormal absorption with the self ; marked by communication disorders and short attention span and inability to treat others as people"
+  },
+  {
+    "word": "fold",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact",
+      "noun.process",
+      "verb.social",
+      "noun.shape",
+      "noun.group",
+      "verb.contact",
+      "noun.body",
+      "verb.change"
+    ],
+    "root_affix": [
+      "fold"
+    ],
+    "sememes": [
+      "fold",
+      "AnimalHuman",
+      "facilities",
+      "part",
+      "shut",
+      "trace",
+      "viscera",
+      "physiology",
+      "foster",
+      "livestock"
+    ],
+    "definitions": "a group of people who adhere to a common faith and habitually attend a given church"
+  },
+  {
+    "word": "violoncello",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "viol",
+      "on"
+    ],
+    "sememes": [],
+    "definitions": "a large stringed instrument ; seated player holds it upright while playing"
+  },
+  {
+    "word": "pharmacogenetics",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [
+      "pharmaco",
+      "genetics"
+    ],
+    "sememes": [],
+    "definitions": "the branch of genetics that studies the genetically determined variations in responses to drugs in humans or laboratory organisms"
+  },
+  {
+    "word": "aliquot",
+    "lexnames": [
+      "noun.quantity",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "subtract",
+      "DoSum",
+      "able"
+    ],
+    "definitions": "an integer that is an exact divisor of some quantity"
+  },
+  {
+    "word": "locally",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "pieced",
+      "native"
+    ],
+    "definitions": "by a particular locality"
+  },
+  {
+    "word": "skateboarder",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "sport",
+      "human",
+      "exercise"
+    ],
+    "definitions": "someone who skates on a skateboard"
+  },
+  {
+    "word": "j",
+    "lexnames": [
+      "noun.communication",
+      "noun.quantity"
+    ],
+    "root_affix": [
+      "j"
+    ],
+    "sememes": [
+      "character"
+    ],
+    "definitions": "the 10th letter of the Roman alphabet"
+  },
+  {
+    "word": "epicure",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "epi"
+    ],
+    "sememes": [
+      "eat",
+      "human",
+      "BeAble",
+      "edible",
+      "GoodTaste"
+    ],
+    "definitions": "a person devoted to refined sensuous enjoyment ( especially good food and drink )"
+  },
+  {
+    "word": "hodgepodge",
+    "lexnames": [
+      "noun.group",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "mixed"
+    ],
+    "definitions": "a motley assortment of things"
+  },
+  {
+    "word": "hotfoot",
+    "lexnames": [
+      "noun.act",
+      "adv.all",
+      "verb.motion"
+    ],
+    "root_affix": [
+      "hot",
+      "foot"
+    ],
+    "sememes": [
+      "LeaveFor",
+      "VieFor"
+    ],
+    "definitions": "a practical joke that involves inserting a match surreptitiously between the sole and upper of the victim 's shoe and then lighting it"
+  },
+  {
+    "word": "hermetic",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "withstand",
+      "leak",
+      "gas",
+      "able"
+    ],
+    "definitions": "completely sealed ; completely airtight"
+  },
+  {
+    "word": "quizzer",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "exam"
+    ],
+    "definitions": "someone who administers a test to determine your qualifications"
+  },
+  {
+    "word": "mitigated",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "d"
+    ],
+    "sememes": [],
+    "definitions": "made less severe or intense"
+  },
+  {
+    "word": "descending",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ing"
+    ],
+    "sememes": [],
+    "definitions": "coming down or downward"
+  },
+  {
+    "word": "applier",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "app"
+    ],
+    "sememes": [],
+    "definitions": "a person who requests or seeks something such as assistance or employment or admission"
+  },
+  {
+    "word": "conquistador",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "defeat"
+    ],
+    "definitions": "an adventurer ( especially one who led the Spanish conquest of Mexico and Peru in the 16th century )"
+  },
+  {
+    "word": "leverage",
+    "lexnames": [
+      "noun.act",
+      "verb.possession",
+      "noun.attribute",
+      "noun.phenomenon"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "method",
+      "use"
+    ],
+    "definitions": "provide with leverage"
+  },
+  {
+    "word": "beth",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the 2nd letter of the Hebrew alphabet"
+  },
+  {
+    "word": "parietal",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "par",
+      "ie",
+      "tal"
+    ],
+    "sememes": [],
+    "definitions": "of or relating to or associated with the parietal bones in the cranium"
+  },
+  {
+    "word": "shuffleboard",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "board"
+    ],
+    "sememes": [],
+    "definitions": "a game in which players use long sticks to shove wooden disks onto the scoring area marked on a smooth surface"
+  },
+  {
+    "word": "liquidity",
+    "lexnames": [
+      "noun.state",
+      "noun.attribute"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "human",
+      "return",
+      "Ability",
+      "SelfMove",
+      "group"
+    ],
+    "definitions": "being in cash or easily convertible to cash ; debt paying ability"
+  },
+  {
+    "word": "clergy",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "religion",
+      "human",
+      "Occupation"
+    ],
+    "definitions": "in Christianity , clergymen collectively ( as distinguished from the laity )"
+  },
+  {
+    "word": "nonetheless",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "the",
+      "less"
+    ],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "despite anything to the contrary ( usually following a concession )"
+  },
+  {
+    "word": "imperturbability",
+    "lexnames": [
+      "noun.feeling"
+    ],
+    "root_affix": [
+      "im",
+      "perturb",
+      "ability"
+    ],
+    "sememes": [
+      "calm"
+    ],
+    "definitions": "calm and unruffled self - assurance"
+  },
+  {
+    "word": "spice",
+    "lexnames": [
+      "verb.perception",
+      "noun.food",
+      "noun.attribute",
+      "noun.substance",
+      "verb.change"
+    ],
+    "root_affix": [
+      "spice"
+    ],
+    "sememes": [
+      "CauseToDo",
+      "fragrant",
+      "Taste",
+      "adjust",
+      "material",
+      "fill",
+      "edible",
+      "add",
+      "interesting",
+      "tool",
+      "FondOf",
+      "emotion"
+    ],
+    "definitions": "any of a variety of pungent aromatic vegetable substances used for flavoring food"
+  },
+  {
+    "word": "straightener",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "straight",
+      "ener"
+    ],
+    "sememes": [],
+    "definitions": "a device for straightening"
+  },
+  {
+    "word": "gelded",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "( of a male animal ) having the testicles removed"
+  },
+  {
+    "word": "succor",
+    "lexnames": [
+      "noun.act",
+      "verb.social"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "help in a difficult situation"
+  },
+  {
+    "word": "creedal",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "al"
+    ],
+    "sememes": [],
+    "definitions": "of or relating to a creed"
+  },
+  {
+    "word": "phalangeal",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "pha",
+      "al"
+    ],
+    "sememes": [],
+    "definitions": "of or relating to the bones of the fingers or toes"
+  },
+  {
+    "word": "derisory",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ory"
+    ],
+    "sememes": [
+      "wrong"
+    ],
+    "definitions": "incongruous ; inviting ridicule"
+  },
+  {
+    "word": "week",
+    "lexnames": [
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "time",
+      "week",
+      "Unit"
+    ],
+    "definitions": "any period of seven consecutive days"
+  },
+  {
+    "word": "declamatory",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "de",
+      "clam",
+      "atory"
+    ],
+    "sememes": [
+      "flighty"
+    ],
+    "definitions": "ostentatiously lofty in style"
+  },
+  {
+    "word": "romanticist",
+    "lexnames": [
+      "noun.person",
+      "adj.pert"
+    ],
+    "root_affix": [
+      "romantic",
+      "ist"
+    ],
+    "sememes": [],
+    "definitions": "belonging to or characteristic of Romanticism or the Romantic Movement in the arts"
+  },
+  {
+    "word": "aphoristic",
+    "lexnames": [
+      "adj.pert",
+      "adj.all"
+    ],
+    "root_affix": [
+      "ic"
+    ],
+    "sememes": [],
+    "definitions": "terse and witty and like a maxim"
+  },
+  {
+    "word": "isoleucine",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "eu",
+      "cine"
+    ],
+    "sememes": [],
+    "definitions": "an essential amino acid found in proteins ; isomeric with leucine"
+  },
+  {
+    "word": "shipping",
+    "lexnames": [
+      "noun.act",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ship",
+      "transport",
+      "waters",
+      "Amount",
+      "affairs"
+    ],
+    "definitions": "conveyance provided by the ships belonging to one country or industry"
+  },
+  {
+    "word": "laryngitis",
+    "lexnames": [
+      "noun.state"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "disease",
+      "inflamed"
+    ],
+    "definitions": "inflammation of the mucous membrane of the larynx ; characterized by hoarseness or loss of voice and coughing"
+  },
+  {
+    "word": "insalubrious",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "in"
+    ],
+    "sememes": [
+      "disadvantageous"
+    ],
+    "definitions": "detrimental to health"
+  },
+  {
+    "word": "staunchly",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "faithful",
+      "resolute"
+    ],
+    "definitions": "in a staunch manner"
+  },
+  {
+    "word": "javelin",
+    "lexnames": [
+      "noun.event",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "SportTool"
+    ],
+    "definitions": "a spear thrown as a weapon or in competitive field events"
+  },
+  {
+    "word": "nihilistic",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "ic"
+    ],
+    "sememes": [
+      "institution",
+      "manage",
+      "thinking",
+      "expect",
+      "remove",
+      "official",
+      "politics"
+    ],
+    "definitions": "of or relating to nihilism"
+  },
+  {
+    "word": "pathology",
+    "lexnames": [
+      "noun.state",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "knowledge",
+      "disease",
+      "medical",
+      "reason"
+    ],
+    "definitions": "any deviation from a healthy or normal condition"
+  },
+  {
+    "word": "predictably",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "predict",
+      "ably"
+    ],
+    "sememes": [],
+    "definitions": "in a predictable manner or to a predictable degree"
+  },
+  {
+    "word": "proletariat",
+    "lexnames": [
+      "noun.group"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "wealth",
+      "OwnNot",
+      "community"
+    ],
+    "definitions": "a social class comprising those who do manual labor or work for wages"
+  },
+  {
+    "word": "tramway",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers"
+  },
+  {
+    "word": "forever",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "always",
+      "permanent"
+    ],
+    "definitions": "for a very long or seemingly endless time"
+  },
+  {
+    "word": "loft",
+    "lexnames": [
+      "noun.artifact",
+      "noun.attribute",
+      "verb.contact",
+      "verb.possession",
+      "verb.cognition"
+    ],
+    "root_affix": [
+      "loft"
+    ],
+    "sememes": [
+      "room"
+    ],
+    "definitions": "propel through the air"
+  },
+  {
+    "word": "can",
+    "lexnames": [
+      "noun.artifact",
+      "noun.quantity",
+      "verb.social",
+      "noun.communication",
+      "noun.body",
+      "verb.change"
+    ],
+    "root_affix": [
+      "can"
+    ],
+    "sememes": [
+      "question",
+      "FuncWord",
+      "inanimate",
+      "edible",
+      "NounUnit",
+      "put",
+      "tool",
+      "store"
+    ],
+    "definitions": "a buoy with a round bottom and conical top"
+  },
+  {
+    "word": "lassitude",
+    "lexnames": [
+      "noun.state",
+      "noun.feeling",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "lass",
+      "itude"
+    ],
+    "sememes": [
+      "inactive",
+      "tired",
+      "Activeness",
+      "human"
+    ],
+    "definitions": "a state of comatose torpor ( as found in sleeping sickness )"
+  },
+  {
+    "word": "cocoa",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "material",
+      "drinks"
+    ],
+    "definitions": "powder of ground roasted cacao beans with most of the fat removed"
+  },
+  {
+    "word": "educationist",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "ist"
+    ],
+    "sememes": [
+      "knowledge",
+      "own",
+      "human",
+      "education",
+      "affairs"
+    ],
+    "definitions": "a specialist in the theory of education"
+  },
+  {
+    "word": "chlorination",
+    "lexnames": [
+      "noun.process",
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ize",
+      "fact"
+    ],
+    "definitions": "the addition or substitution of chlorine in organic compounds"
+  },
+  {
+    "word": "important",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "important"
+    ],
+    "definitions": "of great significance or value"
+  },
+  {
+    "word": "musher",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a traveler who drives ( or travels with ) a dog team"
+  },
+  {
+    "word": "gravestone",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "grave",
+      "stone"
+    ],
+    "sememes": [
+      "facilities",
+      "part",
+      "die",
+      "human",
+      "body",
+      "bury",
+      "mark"
+    ],
+    "definitions": "a stone that is used to mark a grave"
+  },
+  {
+    "word": "anon",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "a",
+      "non"
+    ],
+    "sememes": [],
+    "definitions": "at another time"
+  },
+  {
+    "word": "trickery",
+    "lexnames": [
+      "noun.act",
+      "noun.communication"
+    ],
+    "root_affix": [
+      "y"
+    ],
+    "sememes": [
+      "deceive",
+      "plans",
+      "method"
+    ],
+    "definitions": "the use of tricks to deceive someone ( usually to extract money from them )"
+  },
+  {
+    "word": "clapper",
+    "lexnames": [
+      "noun.person",
+      "noun.body",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+  },
+  {
+    "word": "admonition",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "persuade",
+      "text"
+    ],
+    "definitions": "cautionary advice about something imminent ( especially imminent danger or other unpleasantness )"
+  },
+  {
+    "word": "blurb",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a promotional statement ( as found on the dust jackets of books )"
+  },
+  {
+    "word": "sirloin",
+    "lexnames": [
+      "noun.food"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "food",
+      "flesh",
+      "livestock",
+      "part"
+    ],
+    "definitions": "the portion of the loin ( especially of beef ) just in front of the rump"
+  },
+  {
+    "word": "popper",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a container for cooking popcorn"
+  },
+  {
+    "word": "spectacled",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "d"
+    ],
+    "sememes": [],
+    "definitions": "wearing , or having the face adorned with , eyeglasses or an eyeglass"
+  },
+  {
+    "word": "undyed",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [],
+    "definitions": "not artificially colored or bleached"
+  },
+  {
+    "word": "lyceum",
+    "lexnames": [
+      "noun.group",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a school for students intermediate between elementary school and college ; usually grades 9 to 12"
+  },
+  {
+    "word": "nominally",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [
+      "fake"
+    ],
+    "definitions": "in name only"
+  },
+  {
+    "word": "stumper",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [
+      "stump",
+      "er"
+    ],
+    "sememes": [],
+    "definitions": "a particularly difficult or baffling question or problem"
+  },
+  {
+    "word": "tannic",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "tan",
+      "nic"
+    ],
+    "sememes": [
+      "chemical"
+    ],
+    "definitions": "derived from tannin"
+  },
+  {
+    "word": "gray",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact",
+      "noun.quantity",
+      "noun.attribute",
+      "adj.all",
+      "noun.group",
+      "noun.animal",
+      "verb.change"
+    ],
+    "root_affix": [
+      "gray"
+    ],
+    "sememes": [
+      "hair",
+      "aged",
+      "part",
+      "grey",
+      "human",
+      "white"
+    ],
+    "definitions": "showing characteristics of age , especially having grey or white hair"
+  },
+  {
+    "word": "translocate",
+    "lexnames": [
+      "verb.possession"
+    ],
+    "root_affix": [
+      "trans",
+      "locate"
+    ],
+    "sememes": [
+      "SelfMove"
+    ],
+    "definitions": "move from one place to another , especially of wild animals"
+  },
+  {
+    "word": "alleviated",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "d"
+    ],
+    "sememes": [],
+    "definitions": "( of pain or sorrow ) made easier to bear"
+  },
+  {
+    "word": "monied",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "ed"
+    ],
+    "sememes": [],
+    "definitions": "based on or arising from the possession of money or wealth"
+  },
+  {
+    "word": "predominate",
+    "lexnames": [
+      "verb.stative",
+      "adj.all"
+    ],
+    "root_affix": [
+      "pre"
+    ],
+    "sememes": [
+      "control"
+    ],
+    "definitions": "be larger in number , quantity , power , status or importance"
+  },
+  {
+    "word": "rarity",
+    "lexnames": [
+      "noun.artifact",
+      "noun.attribute"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "rarely",
+      "few",
+      "queer",
+      "treasure"
+    ],
+    "definitions": "noteworthy scarcity"
+  },
+  {
+    "word": "roquette",
+    "lexnames": [
+      "noun.plant"
+    ],
+    "root_affix": [
+      "ro",
+      "quette"
+    ],
+    "sememes": [],
+    "definitions": "erect European annual often grown as a salad crop to be harvested when young and tender"
+  },
+  {
+    "word": "chrysanthemum",
+    "lexnames": [
+      "noun.plant"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "FlowerGrass"
+    ],
+    "definitions": "any of numerous perennial Old World herbs having showy brightly colored flower heads of the genera Chrysanthemum , Argyranthemum , Dendranthema , Tanacetum ; widely cultivated"
+  },
+  {
+    "word": "mental",
+    "lexnames": [
+      "adj.pert",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "AttachmentValue",
+      "EmotionalityValue",
+      "mental"
+    ],
+    "definitions": "of or relating to the mind"
+  },
+  {
+    "word": "scanner",
+    "lexnames": [
+      "noun.person",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "image",
+      "forming",
+      "tool"
+    ],
+    "definitions": "an electronic device that generates a digital representation of an image for data input to a computer"
+  },
+  {
+    "word": "penetrator",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [
+      "penetr",
+      "ator"
+    ],
+    "sememes": [],
+    "definitions": "an intruder who passes into or through ( often by overcoming resistance )"
+  },
+  {
+    "word": "unwashed",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [
+      "spotless",
+      "neg"
+    ],
+    "definitions": "not cleaned with or as if with soap and water"
+  },
+  {
+    "word": "applied",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "use",
+      "fact"
+    ],
+    "definitions": "concerned with concrete problems or data rather than with fundamental principles"
+  },
+  {
+    "word": "gunboat",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "gun",
+      "boat"
+    ],
+    "sememes": [
+      "ship",
+      "weapon",
+      "military"
+    ],
+    "definitions": "a small shallow - draft boat carrying mounted guns ; used by costal patrols"
+  },
+  {
+    "word": "fogged",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "FuncWord"
+    ],
+    "definitions": "obscured by fog"
+  },
+  {
+    "word": "castanets",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a percussion instrument consisting of a pair of hollow pieces of wood or bone ( usually held between the thumb and fingers ) that are made to click together ( as by Spanish dancers ) in rhythm with the dance"
+  },
+  {
+    "word": "mongo",
+    "lexnames": [
+      "noun.quantity"
+    ],
+    "root_affix": [
+      "mon",
+      "go"
+    ],
+    "sememes": [],
+    "definitions": "100 mongo equal 1 tugrik in Mongolia"
+  },
+  {
+    "word": "twenties",
+    "lexnames": [
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "time",
+      "AgeValue",
+      "young",
+      "specific"
+    ],
+    "definitions": "the time of life between 20 and 30"
+  },
+  {
+    "word": "asphyxiating",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "asphyxia",
+      "ting"
+    ],
+    "sememes": [],
+    "definitions": "tending to deprive of oxygen"
+  },
+  {
+    "word": "masticate",
+    "lexnames": [
+      "verb.contact",
+      "verb.consumption"
+    ],
+    "root_affix": [
+      "ate"
+    ],
+    "sememes": [],
+    "definitions": "chew ( food ) ; to bite and grind with the teeth"
+  },
+  {
+    "word": "necker",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a lover who necks"
+  },
+  {
+    "word": "hilarious",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "interesting"
+    ],
+    "definitions": "marked by or causing boisterous merriment or convulsive laughter"
+  },
+  {
+    "word": "incarnation",
+    "lexnames": [
+      "noun.person",
+      "noun.act",
+      "noun.communication",
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "mean"
+    ],
+    "definitions": "time passed in a particular bodily form"
+  },
+  {
+    "word": "unmercifully",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "un",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "without pity ; in a merciless manner"
+  },
+  {
+    "word": "nonabsorbent",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "non"
+    ],
+    "sememes": [],
+    "definitions": "not capable of absorbing or soaking up ( liquids )"
+  },
+  {
+    "word": "shattered",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "ruined or disrupted"
+  },
+  {
+    "word": "inducing",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "act of bringing about a desired result"
+  },
+  {
+    "word": "cecum",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [
+      "ce",
+      "cum"
+    ],
+    "sememes": [
+      "physiology",
+      "AnimalHuman",
+      "viscera",
+      "part"
+    ],
+    "definitions": "the cavity in which the large intestine begins and into which the ileum opens"
+  },
+  {
+    "word": "reductase",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "biology",
+      "animate",
+      "part"
+    ],
+    "definitions": "an enzyme that catalyses the biochemical reduction of some specified substance"
+  },
+  {
+    "word": "garrulous",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "trivial",
+      "speak"
+    ],
+    "definitions": "full of trivial conversation"
+  },
+  {
+    "word": "oust",
+    "lexnames": [
+      "verb.social"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "dismiss",
+      "expel"
+    ],
+    "definitions": "remove and replace"
+  },
+  {
+    "word": "devouring",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "( often followed by ` for ' ) ardently or excessively desirous"
+  },
+  {
+    "word": "imperative",
+    "lexnames": [
+      "noun.relation",
+      "noun.act",
+      "adj.pert",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "urgent"
+    ],
+    "definitions": "relating to verbs in the imperative mood"
+  },
+  {
+    "word": "unforeseen",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [
+      "un"
+    ],
+    "sememes": [
+      "predict"
+    ],
+    "definitions": "not anticipated"
+  },
+  {
+    "word": "butterfat",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "butter",
+      "fat"
+    ],
+    "sememes": [
+      "food",
+      "material"
+    ],
+    "definitions": "the fatty substance of milk from which butter is made"
+  },
+  {
+    "word": "position",
+    "lexnames": [
+      "noun.act",
+      "noun.state",
+      "verb.motion",
+      "noun.attribute",
+      "verb.contact",
+      "noun.communication",
+      "noun.cognition",
+      "noun.location"
+    ],
+    "root_affix": [
+      "position"
+    ],
+    "sememes": [
+      "location",
+      "fight",
+      "human",
+      "arrange",
+      "standpoint",
+      "alive",
+      "put",
+      "Occupation",
+      "Status",
+      "military",
+      "event",
+      "place",
+      "Circumstances",
+      "earn",
+      "affairs",
+      "group"
+    ],
+    "definitions": "a condition or position in which you find yourself"
+  },
+  {
+    "word": "rimu",
+    "lexnames": [
+      "noun.plant"
+    ],
+    "root_affix": [
+      "rim",
+      "u"
+    ],
+    "sememes": [],
+    "definitions": "tall New Zealand timber tree"
+  },
+  {
+    "word": "adorable",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "urge",
+      "respect",
+      "able"
+    ],
+    "definitions": "lovable especially in a childlike or naive way"
+  },
+  {
+    "word": "variant",
+    "lexnames": [
+      "noun.event",
+      "noun.cognition",
+      "noun.group",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "Property",
+      "different",
+      "event",
+      "entity"
+    ],
+    "definitions": "( biology ) a group of organisms within a species that differ in trivial ways from similar groups"
+  },
+  {
+    "word": "astronautics",
+    "lexnames": [
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "knowledge",
+      "celestial",
+      "fly",
+      "aircraft"
+    ],
+    "definitions": "the theory and practice of navigation through air or space"
+  },
+  {
+    "word": "alkene",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "al"
+    ],
+    "sememes": [
+      "chemical"
+    ],
+    "definitions": "any unsaturated aliphatic hydrocarbon"
+  },
+  {
+    "word": "firkin",
+    "lexnames": [
+      "noun.quantity",
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "kin"
+    ],
+    "sememes": [],
+    "definitions": "a small wooden keg"
+  },
+  {
+    "word": "validity",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "ity"
+    ],
+    "sememes": [
+      "entity",
+      "Effectivity",
+      "effective"
+    ],
+    "definitions": "the property of being strong and healthy in constitution"
+  },
+  {
+    "word": "denominationally",
+    "lexnames": [
+      "adv.all"
+    ],
+    "root_affix": [
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "with respect to denomination"
+  },
+  {
+    "word": "twofer",
+    "lexnames": [
+      "noun.communication"
+    ],
+    "root_affix": [
+      "two",
+      "fer"
+    ],
+    "sememes": [],
+    "definitions": "an offer of two for the price of one"
+  },
+  {
+    "word": "detainee",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "police",
+      "detain",
+      "human"
+    ],
+    "definitions": "some held in custody"
+  },
+  {
+    "word": "pul",
+    "lexnames": [
+      "noun.quantity"
+    ],
+    "root_affix": [
+      "pul"
+    ],
+    "sememes": [],
+    "definitions": "100 puls equal 1 afghani in Afghanistan"
+  },
+  {
+    "word": "supplicant",
+    "lexnames": [
+      "noun.person",
+      "adj.all"
+    ],
+    "root_affix": [
+      "cant"
+    ],
+    "sememes": [
+      "human",
+      "earnest",
+      "request"
+    ],
+    "definitions": "humbly entreating"
+  },
+  {
+    "word": "evidentiary",
+    "lexnames": [
+      "adj.pert",
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "information",
+      "police",
+      "prove",
+      "able",
+      "undertake"
+    ],
+    "definitions": "pertaining to or constituting evidence"
+  },
+  {
+    "word": "rubric",
+    "lexnames": [
+      "noun.communication",
+      "noun.cognition",
+      "verb.change"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "red",
+      "AlterColor"
+    ],
+    "definitions": "directions for the conduct of Christian church services ( often printed in red in a prayer book )"
+  },
+  {
+    "word": "iodised",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "ised"
+    ],
+    "sememes": [],
+    "definitions": "treated with iodine"
+  },
+  {
+    "word": "entree",
+    "lexnames": [
+      "noun.food",
+      "noun.act",
+      "noun.artifact",
+      "noun.attribute"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "location",
+      "food",
+      "GoOut",
+      "mouth",
+      "GoInto",
+      "building"
+    ],
+    "definitions": "the right to enter"
+  },
+  {
+    "word": "messiness",
+    "lexnames": [
+      "noun.state",
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "iness"
+    ],
+    "sememes": [],
+    "definitions": "the trait of being untidy and messy"
+  },
+  {
+    "word": "cards",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a game played with playing cards"
+  },
+  {
+    "word": "pate",
+    "lexnames": [
+      "noun.food",
+      "noun.body"
+    ],
+    "root_affix": [
+      "pate"
+    ],
+    "sememes": [
+      "physiology",
+      "head",
+      "AnimalHuman",
+      "part"
+    ],
+    "definitions": "the top of the head"
+  },
+  {
+    "word": "augmentation",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "noun.event"
+    ],
+    "root_affix": [
+      "ation"
+    ],
+    "sememes": [
+      "MakeBetter",
+      "add"
+    ],
+    "definitions": "the amount by which something increases"
+  },
+  {
+    "word": "klystron",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [
+      "k",
+      "ly"
+    ],
+    "sememes": [],
+    "definitions": "an electron tube used to generate or amplify electromagnetic radiation in the microwave region by velocity modulation"
+  },
+  {
+    "word": "inconsequential",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "not following logically as a consequence"
+  },
+  {
+    "word": "hooker",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "lascivious",
+      "SeekPleasure",
+      "human",
+      "female",
+      "mating"
+    ],
+    "definitions": "a golfer whose shots typically curve left ( for right - handed golfers )"
+  },
+  {
+    "word": "defusing",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "de"
+    ],
+    "sememes": [],
+    "definitions": "the act of deactivating or making ineffective ( as a bomb )"
+  },
+  {
+    "word": "chastise",
+    "lexnames": [
+      "verb.communication"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "ExpressAgainst"
+    ],
+    "definitions": "censure severely"
+  },
+  {
+    "word": "intangible",
+    "lexnames": [
+      "noun.possession",
+      "adj.all"
+    ],
+    "root_affix": [
+      "in"
+    ],
+    "sememes": [
+      "difficult",
+      "wealth",
+      "understand"
+    ],
+    "definitions": "incapable of being perceived by the senses especially the sense of touch"
+  },
+  {
+    "word": "viscera",
+    "lexnames": [
+      "noun.body"
+    ],
+    "root_affix": [
+      "vis"
+    ],
+    "sememes": [
+      "physiology",
+      "AnimalHuman",
+      "viscera",
+      "part"
+    ],
+    "definitions": "internal organs collectively ( especially those in the abdominal cavity )"
+  },
+  {
+    "word": "feldspar",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "s",
+      "par"
+    ],
+    "sememes": [],
+    "definitions": "any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium"
+  },
+  {
+    "word": "resection",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "re",
+      "section"
+    ],
+    "sememes": [
+      "doctor",
+      "cut",
+      "medical"
+    ],
+    "definitions": "surgical removal of part of a structure or organ"
+  },
+  {
+    "word": "kind",
+    "lexnames": [
+      "noun.cognition",
+      "adj.all"
+    ],
+    "root_affix": [
+      "kind"
+    ],
+    "sememes": [
+      "Attribute",
+      "event",
+      "entity",
+      "benevolent",
+      "amiable",
+      "Kind"
+    ],
+    "definitions": "tolerant and forgiving under provocation"
+  },
+  {
+    "word": "silverside",
+    "lexnames": [
+      "noun.animal"
+    ],
+    "root_affix": [
+      "silver",
+      "side"
+    ],
+    "sememes": [],
+    "definitions": "small fishes having a silver stripe along each side ; abundant along the Atlantic coast of the United States"
+  },
+  {
+    "word": "trier",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "place",
+      "ProperName",
+      "city"
+    ],
+    "definitions": "one who tries"
+  },
+  {
+    "word": "perfumed",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "having a natural fragrance"
+  },
+  {
+    "word": "shiva",
+    "lexnames": [
+      "noun.person",
+      "noun.time"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "( Judaism ) a period of seven days of mourning after the death of close relative"
+  },
+  {
+    "word": "flashiness",
+    "lexnames": [
+      "noun.attribute"
+    ],
+    "root_affix": [
+      "flash",
+      "iness"
+    ],
+    "sememes": [],
+    "definitions": "tasteless showiness"
+  },
+  {
+    "word": "exotoxin",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "ex",
+      "o",
+      "toxin"
+    ],
+    "sememes": [],
+    "definitions": "a toxin that is secreted by microorganisms into the surrounding medium"
+  },
+  {
+    "word": "beholder",
+    "lexnames": [
+      "noun.person"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "a person who becomes aware ( of things or events ) through the senses"
+  },
+  {
+    "word": "belting",
+    "lexnames": [
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "the material of which belts are made"
+  },
+  {
+    "word": "animal",
+    "lexnames": [
+      "noun.Tops",
+      "adj.all"
+    ],
+    "root_affix": [
+      "animal"
+    ],
+    "sememes": [
+      "animal",
+      "PropertyValue",
+      "AnimalHuman",
+      "beast"
+    ],
+    "definitions": "a living organism characterized by voluntary movement"
+  },
+  {
+    "word": "homonymous",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [
+      "ous"
+    ],
+    "sememes": [],
+    "definitions": "of or related to or being homonyms"
+  },
+  {
+    "word": "may",
+    "lexnames": [
+      "noun.plant",
+      "noun.time"
+    ],
+    "root_affix": [
+      "may"
+    ],
+    "sememes": [
+      "FuncWord",
+      "wholly"
+    ],
+    "definitions": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries ; established as an escape in eastern North America"
+  },
+  {
+    "word": "bristled",
+    "lexnames": [
+      "adj.all"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "FormValue",
+      "shape",
+      "own",
+      "pointed"
+    ],
+    "definitions": "having or covered with protective barbs or quills or spines or thorns or setae etc ."
+  },
+  {
+    "word": "technology",
+    "lexnames": [
+      "noun.act",
+      "noun.cognition"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "knowledge",
+      "problem",
+      "handle",
+      "use"
+    ],
+    "definitions": "the practical application of science to commerce or industry"
+  },
+  {
+    "word": "offering",
+    "lexnames": [
+      "noun.act",
+      "noun.communication",
+      "noun.possession"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "salute",
+      "physical",
+      "put",
+      "provide"
+    ],
+    "definitions": "money contributed to a religious organization"
+  },
+  {
+    "word": "stead",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "stead"
+    ],
+    "sememes": [
+      "replace"
+    ],
+    "definitions": "the post or function properly or customarily occupied or served by another"
+  },
+  {
+    "word": "galactose",
+    "lexnames": [
+      "noun.substance"
+    ],
+    "root_affix": [
+      "ga"
+    ],
+    "sememes": [],
+    "definitions": "a simple sugar found in lactose"
+  },
+  {
+    "word": "dizygotic",
+    "lexnames": [
+      "adj.pert"
+    ],
+    "root_affix": [],
+    "sememes": [],
+    "definitions": "derived from two separately fertilized eggs"
+  },
+  {
+    "word": "batter",
+    "lexnames": [
+      "noun.person",
+      "noun.food",
+      "verb.change",
+      "verb.contact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "strong",
+      "food",
+      "sport",
+      "human",
+      "bump",
+      "damage",
+      "exercise"
+    ],
+    "definitions": "strike violently and repeatedly"
+  },
+  {
+    "word": "barge",
+    "lexnames": [
+      "verb.motion",
+      "noun.artifact"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "pull",
+      "ship",
+      "GoForward"
+    ],
+    "definitions": "transport by barge on a body of water"
+  },
+  {
+    "word": "psyop",
+    "lexnames": [
+      "noun.act"
+    ],
+    "root_affix": [
+      "op"
+    ],
+    "sememes": [],
+    "definitions": "military actions designed to influence the perceptions and attitudes of individuals , groups , and foreign governments"
+  },
+  {
+    "word": "vesper",
+    "lexnames": [
+      "noun.act",
+      "noun.object"
+    ],
+    "root_affix": [],
+    "sememes": [
+      "celestial"
+    ],
+    "definitions": "a late afternoon or evening worship service"
+  },
+  {
+    "word": "lasciviousness",
+    "lexnames": [
+      "noun.feeling"
+    ],
+    "root_affix": [
+      "ness"
+    ],
+    "sememes": [
+      "lascivious"
+    ],
+    "definitions": "feeling morbid sexual desire or a propensity to lewdness"
+  }
+]

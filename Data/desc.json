@@ -1,0 +1,3443 @@
+[
+    {
+        "word": "forget",
+        "lexnames": [
+            "verb.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "forget"
+        ],
+        "definitions": "when you knew a fact or to do something in the past but then without trying you lost this knowledge"
+    },
+    {
+        "word": "office",
+        "lexnames": [
+            "noun.group",
+            "noun.act",
+            "noun.artifact",
+            "noun.state"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "part",
+            "room",
+            "engage",
+            "handle",
+            "organization",
+            "duty",
+            "alive",
+            "Occupation",
+            "earn",
+            "affairs"
+        ],
+        "definitions": "a room in a house or building where people study or work"
+    },
+    {
+        "word": "cheap",
+        "lexnames": [
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "cheap",
+            "commerce"
+        ],
+        "definitions": "something that does not cost a lot of money"
+    },
+    {
+        "word": "obtain",
+        "lexnames": [
+            "verb.change",
+            "verb.possession",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "obtain"
+        ],
+        "definitions": "to get or achieve something that you want"
+    },
+    {
+        "word": "foot",
+        "lexnames": [
+            "noun.person",
+            "noun.act",
+            "noun.artifact",
+            "noun.quantity",
+            "verb.motion",
+            "noun.group",
+            "noun.communication",
+            "noun.body",
+            "noun.location",
+            "verb.possession",
+            "noun.animal",
+            "verb.cognition"
+        ],
+        "root_affix": [
+            "foot"
+        ],
+        "sememes": [
+            "AnimalHuman",
+            "part",
+            "inanimate",
+            "physiology",
+            "Unit",
+            "Length",
+            "Width",
+            "foot",
+            "base",
+            "Distance",
+            "walk"
+        ],
+        "definitions": "the bottom part of the leg on which people walk"
+    },
+    {
+        "word": "disc",
+        "lexnames": [
+            "noun.artifact",
+            "noun.shape"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "round",
+            "disseminate",
+            "record",
+            "shape",
+            "tool",
+            "music"
+        ],
+        "definitions": "something that is a circle but also flat"
+    },
+    {
+        "word": "identify",
+        "lexnames": [
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "distinguish"
+        ],
+        "definitions": "to decide who someone is or what something is after thinking about it"
+    },
+    {
+        "word": "thanks",
+        "lexnames": [
+            "noun.act",
+            "noun.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "thank"
+        ],
+        "definitions": "the gesture or gratitude you give after someone does something positive for you"
+    },
+    {
+        "word": "facts",
+        "lexnames": [],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "pieces of information that are true"
+    },
+    {
+        "word": "follow",
+        "lexnames": [
+            "verb.perception",
+            "verb.motion",
+            "verb.social",
+            "verb.creation",
+            "verb.stative",
+            "verb.possession",
+            "verb.cognition",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "imitate",
+            "specific",
+            "engage",
+            "GoOn",
+            "SelfMove",
+            "follow",
+            "obey"
+        ],
+        "definitions": "when somebody takes the same route as somebody further ahead in order to end up in the same place"
+    },
+    {
+        "word": "toast",
+        "lexnames": [
+            "noun.person",
+            "noun.food",
+            "verb.change",
+            "verb.consumption"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "food",
+            "drink",
+            "drinks",
+            "congratulate",
+            "cook"
+        ],
+        "definitions": "cooked bread that is often eaten with butter for breakfast"
+    },
+    {
+        "word": "leader",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "leader"
+        ],
+        "sememes": [
+            "official",
+            "human"
+        ],
+        "definitions": "somebody who controls an organisation or group of people"
+    },
+    {
+        "word": "knowledge",
+        "lexnames": [
+            "noun.Tops"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "knowledge",
+            "experience"
+        ],
+        "definitions": "all of the information or facts that somebody might have in their head"
+    },
+    {
+        "word": "explain",
+        "lexnames": [
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "explain"
+        ],
+        "definitions": "to say how a complicated situation or problem works so that other people then understand it"
+    },
+    {
+        "word": "complain",
+        "lexnames": [
+            "verb.communication"
+        ],
+        "root_affix": [
+            "complain"
+        ],
+        "sememes": [
+            "ExpressDissatisfaction"
+        ],
+        "definitions": "to express disappointment or lack of satisfaction in speech or writing"
+    },
+    {
+        "word": "tickle",
+        "lexnames": [
+            "noun.act",
+            "verb.perception",
+            "verb.contact",
+            "noun.cognition",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "to touch someone in sensitive parts of their body to make them laugh"
+    },
+    {
+        "word": "choose",
+        "lexnames": [
+            "verb.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "choose"
+        ],
+        "definitions": "to make a decision between more than one options or possibilities"
+    },
+    {
+        "word": "trousers",
+        "lexnames": [],
+        "root_affix": [
+            "s"
+        ],
+        "sememes": [
+            "part",
+            "human",
+            "leg",
+            "PutOn",
+            "clothing"
+        ],
+        "definitions": "an article of clothing that men often wear on their legs"
+    },
+    {
+        "word": "recycle",
+        "lexnames": [
+            "verb.consumption",
+            "verb.motion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "collect",
+            "use",
+            "again"
+        ],
+        "definitions": "to take the material from something and making it into something new rather than throwing it away"
+    },
+    {
+        "word": "hat",
+        "lexnames": [
+            "noun.act",
+            "verb.possession",
+            "noun.artifact",
+            "verb.body"
+        ],
+        "root_affix": [
+            "hat"
+        ],
+        "sememes": [
+            "part",
+            "human",
+            "head",
+            "PutOn",
+            "clothing"
+        ],
+        "definitions": "clothing that you wear on your head"
+    },
+    {
+        "word": "achieve",
+        "lexnames": [
+            "verb.social"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "fulfil"
+        ],
+        "definitions": "when you try hard to do something difficult and you manage to do it"
+    },
+    {
+        "word": "coffee",
+        "lexnames": [
+            "noun.food",
+            "noun.plant",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "physical",
+            "material",
+            "drinks",
+            "Color"
+        ],
+        "definitions": "a hot dark brown drink like tea but made from ground beans"
+    },
+    {
+        "word": "government",
+        "lexnames": [
+            "noun.group",
+            "noun.act",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "institution",
+            "manage",
+            "official",
+            "politics"
+        ],
+        "definitions": "the group of people who together make the decisions and plans to run the country"
+    },
+    {
+        "word": "food",
+        "lexnames": [
+            "noun.food",
+            "noun.cognition",
+            "noun.Tops"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "edible",
+            "material",
+            "mental"
+        ],
+        "definitions": "the stuff that humans and animals eat in order to give them the energy they need to live"
+    },
+    {
+        "word": "prefer",
+        "lexnames": [
+            "verb.cognition",
+            "verb.social",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "willing"
+        ],
+        "definitions": "to like one thing more than another thing"
+    },
+    {
+        "word": "blanket",
+        "lexnames": [
+            "noun.artifact",
+            "adj.all",
+            "verb.contact",
+            "verb.stative",
+            "noun.object"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "sleep",
+            "tool",
+            "cover"
+        ],
+        "definitions": "a flat piece of material you put on your bed or the ground for warmth or comfort"
+    },
+    {
+        "word": "decide",
+        "lexnames": [
+            "verb.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "judge",
+            "decide"
+        ],
+        "definitions": "to choose between more than one options or possibilities"
+    },
+    {
+        "word": "desk",
+        "lexnames": [
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "put",
+            "furniture"
+        ],
+        "definitions": "a flat table for working at often found in an office"
+    },
+    {
+        "word": "flea",
+        "lexnames": [
+            "noun.animal"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "InsectWorm"
+        ],
+        "definitions": "a small insect that lives in cat fur and bites your legs"
+    },
+    {
+        "word": "tallest",
+        "lexnames": [],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "the thing that is higher or taller than everything else"
+    },
+    {
+        "word": "realize",
+        "lexnames": [
+            "verb.cognition",
+            "verb.possession",
+            "verb.creation"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "understand",
+            "fulfil"
+        ],
+        "definitions": "when at first you not know something for sure and then suddenly you do know it"
+    },
+    {
+        "word": "meat",
+        "lexnames": [
+            "noun.food",
+            "noun.plant",
+            "noun.cognition"
+        ],
+        "root_affix": [
+            "meat"
+        ],
+        "sememes": [
+            "food",
+            "part",
+            "fruit",
+            "flesh",
+            "embryo",
+            "livestock"
+        ],
+        "definitions": "the flesh of animals that humans like to cook and eat"
+    },
+    {
+        "word": "bring",
+        "lexnames": [
+            "verb.communication",
+            "verb.motion",
+            "verb.creation",
+            "verb.contact",
+            "verb.possession",
+            "verb.emotion",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "bring"
+        ],
+        "definitions": "when somebody carries something towards you and maybe gives it to you"
+    },
+    {
+        "word": "opera",
+        "lexnames": [
+            "noun.communication",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "shows"
+        ],
+        "definitions": "a type of classical musical performance in which performers sing and act"
+    },
+    {
+        "word": "clown",
+        "lexnames": [
+            "noun.person",
+            "verb.body"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "entertainment",
+            "human",
+            "interesting",
+            "Occupation",
+            "perform"
+        ],
+        "definitions": "a person who acts or dresses stupidly in order to make people laugh"
+    },
+    {
+        "word": "bird",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "noun.food",
+            "verb.competition",
+            "noun.communication",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "bird"
+        ],
+        "sememes": [
+            "sport",
+            "SportTool",
+            "bird"
+        ],
+        "definitions": "an animal with wings that flies and builds nests"
+    },
+    {
+        "word": "race",
+        "lexnames": [
+            "noun.artifact",
+            "verb.competition",
+            "verb.motion",
+            "verb.social",
+            "noun.group",
+            "noun.phenomenon",
+            "noun.event"
+        ],
+        "root_affix": [
+            "race"
+        ],
+        "sememes": [
+            "fact",
+            "sport",
+            "compete",
+            "tribe",
+            "Kind"
+        ],
+        "definitions": "a competition where people try to reach a place in the quickest possible time"
+    },
+    {
+        "word": "contain",
+        "lexnames": [
+            "verb.competition",
+            "verb.social",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "contain",
+            "obstruct",
+            "military",
+            "restrain"
+        ],
+        "definitions": "when something has other things inside of it"
+    },
+    {
+        "word": "fishing",
+        "lexnames": [
+            "noun.act"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "catch",
+            "FuncWord",
+            "agricultural",
+            "waters",
+            "fish",
+            "affairs"
+        ],
+        "definitions": "a sport or pastime that involves hunting fish from the sea or rivers"
+    },
+    {
+        "word": "enjoy",
+        "lexnames": [
+            "verb.perception",
+            "verb.consumption",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "enjoy",
+            "own"
+        ],
+        "definitions": "to feel happiness or pleasure when you do an activity"
+    },
+    {
+        "word": "chew",
+        "lexnames": [
+            "noun.food",
+            "noun.act",
+            "verb.consumption"
+        ],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "to move your mouth or jaw up and down in break up or soften food"
+    },
+    {
+        "word": "art",
+        "lexnames": [
+            "noun.act",
+            "noun.communication",
+            "noun.cognition",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "art"
+        ],
+        "sememes": [
+            "knowledge",
+            "method",
+            "entertainment",
+            "human",
+            "Ability",
+            "inanimate",
+            "affairs"
+        ],
+        "definitions": "the word for painting music theatre sculpture and other creative activities"
+    },
+    {
+        "word": "regret",
+        "lexnames": [
+            "verb.communication",
+            "noun.feeling",
+            "verb.emotion"
+        ],
+        "root_affix": [
+            "regret"
+        ],
+        "sememes": [
+            "regret",
+            "repent",
+            "sorry",
+            "emotion"
+        ],
+        "definitions": "the feeling of sadness after making the wrong choice"
+    },
+    {
+        "word": "tea",
+        "lexnames": [
+            "noun.group",
+            "noun.food",
+            "noun.plant"
+        ],
+        "root_affix": [
+            "tea"
+        ],
+        "sememes": [
+            "eat",
+            "hair",
+            "fact",
+            "part",
+            "material",
+            "drinks",
+            "tree",
+            "reproduce"
+        ],
+        "definitions": "popular drink made by putting leaves in hot water"
+    },
+    {
+        "word": "reduce",
+        "lexnames": [
+            "verb.social",
+            "verb.body",
+            "verb.contact",
+            "verb.possession",
+            "verb.emotion",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "wounded",
+            "resume",
+            "subtract",
+            "BecomeLess",
+            "part",
+            "shrink",
+            "doctor",
+            "economy",
+            "defeat",
+            "Price",
+            "medical"
+        ],
+        "definitions": "to make the amount of something lower"
+    },
+    {
+        "word": "discover",
+        "lexnames": [
+            "verb.perception",
+            "verb.creation",
+            "verb.possession",
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "discover"
+        ],
+        "sememes": [
+            "Vachieve",
+            "perception",
+            "research",
+            "LookFor",
+            "investigate",
+            "reveal"
+        ],
+        "definitions": "to find out some information or to locate a place that was not generally known beforehand"
+    },
+    {
+        "word": "library",
+        "lexnames": [
+            "noun.group",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "PutInOrder",
+            "gather",
+            "borrow",
+            "read",
+            "InstitutePlace",
+            "store",
+            "readings"
+        ],
+        "definitions": "a place where many books are stored so that people can easily access them"
+    },
+    {
+        "word": "expect",
+        "lexnames": [
+            "verb.cognition",
+            "verb.communication",
+            "verb.body"
+        ],
+        "root_affix": [
+            "expect"
+        ],
+        "sememes": [
+            "predict",
+            "expect"
+        ],
+        "definitions": "to think into the future and feel that is is likely that a particular event will happen"
+    },
+    {
+        "word": "year",
+        "lexnames": [
+            "noun.group",
+            "noun.time"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "year",
+            "Age",
+            "human",
+            "InstitutePlace",
+            "teach",
+            "Unit",
+            "education",
+            "study",
+            "Rank",
+            "time",
+            "animate"
+        ],
+        "definitions": "a period of months corresponding to the earth orbiting the sun"
+    },
+    {
+        "word": "sport",
+        "lexnames": [
+            "noun.person",
+            "noun.act",
+            "verb.motion",
+            "noun.communication",
+            "verb.stative"
+        ],
+        "root_affix": [
+            "sport"
+        ],
+        "sememes": [
+            "sport",
+            "exercise"
+        ],
+        "definitions": "an organised competitive activity or game where physical skill is needed"
+    },
+    {
+        "word": "blue",
+        "lexnames": [
+            "noun.artifact",
+            "noun.attribute",
+            "adj.all",
+            "noun.group",
+            "noun.substance",
+            "noun.object",
+            "noun.animal",
+            "verb.change"
+        ],
+        "root_affix": [
+            "blue"
+        ],
+        "sememes": [
+            "lascivious",
+            "sad",
+            "blue"
+        ],
+        "definitions": "the colour of the sea or the sky"
+    },
+    {
+        "word": "poke",
+        "lexnames": [
+            "noun.person",
+            "noun.act",
+            "noun.artifact",
+            "verb.perception",
+            "noun.plant",
+            "verb.contact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "PlayWith",
+            "stab"
+        ],
+        "definitions": "to touch someone or something with an extended finger or long thin object"
+    },
+    {
+        "word": "strawberry",
+        "lexnames": [
+            "noun.food",
+            "noun.plant",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "fruit"
+        ],
+        "definitions": "a sweet red fruit often eaten with cream"
+    },
+    {
+        "word": "avoid",
+        "lexnames": [
+            "verb.consumption",
+            "verb.communication",
+            "verb.social"
+        ],
+        "root_affix": [
+            "avoid"
+        ],
+        "sememes": [
+            "restrain",
+            "evade",
+            "escape"
+        ],
+        "definitions": "to make sure that you do not come close to somebody or something"
+    },
+    {
+        "word": "washed",
+        "lexnames": [
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "something that has been cleaned with water recently"
+    },
+    {
+        "word": "ice",
+        "lexnames": [
+            "noun.artifact",
+            "noun.food",
+            "noun.possession",
+            "verb.contact",
+            "noun.object",
+            "noun.substance",
+            "verb.change"
+        ],
+        "root_affix": [
+            "ice"
+        ],
+        "sememes": [
+            "vehicle",
+            "urge",
+            "part"
+        ],
+        "definitions": "frozen water that you can put in your drink to make it colder"
+    },
+    {
+        "word": "mud",
+        "lexnames": [
+            "noun.substance",
+            "verb.contact",
+            "noun.communication"
+        ],
+        "root_affix": [
+            "mud"
+        ],
+        "sememes": [
+            "dirty",
+            "stone",
+            "waterlogging",
+            "soft"
+        ],
+        "definitions": "dirty wet brown earth found on the ground after it has rained"
+    },
+    {
+        "word": "continue",
+        "lexnames": [
+            "verb.social",
+            "verb.communication",
+            "verb.motion",
+            "verb.stative",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "GoOn"
+        ],
+        "definitions": "to keep doing something when stopping was a possibility"
+    },
+    {
+        "word": "internet",
+        "lexnames": [
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "information",
+            "computer",
+            "internet"
+        ],
+        "definitions": "the network connecting computers in the world and allowing information to be shared"
+    },
+    {
+        "word": "reading",
+        "lexnames": [
+            "noun.act",
+            "noun.communication",
+            "noun.cognition",
+            "noun.location"
+        ],
+        "root_affix": [
+            "reading"
+        ],
+        "sememes": [
+            "place",
+            "ProperName",
+            "city"
+        ],
+        "definitions": "the activity of looking at words or text and understanding what they mean"
+    },
+    {
+        "word": "method",
+        "lexnames": [
+            "noun.act",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "method"
+        ],
+        "definitions": "a particular way of doing something"
+    },
+    {
+        "word": "ability",
+        "lexnames": [
+            "noun.cognition",
+            "noun.attribute"
+        ],
+        "root_affix": [
+            "ability"
+        ],
+        "sememes": [
+            "human",
+            "Ability",
+            "animate"
+        ],
+        "definitions": "the skills that somebody has"
+    },
+    {
+        "word": "nature",
+        "lexnames": [
+            "noun.person",
+            "noun.cognition",
+            "noun.attribute",
+            "noun.object"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "humanized"
+        ],
+        "definitions": "all of the living things in the world"
+    },
+    {
+        "word": "night",
+        "lexnames": [
+            "noun.person",
+            "noun.time",
+            "noun.state"
+        ],
+        "root_affix": [
+            "night"
+        ],
+        "sememes": [
+            "specific",
+            "time",
+            "day",
+            "night",
+            "week"
+        ],
+        "definitions": "the time at the end of the day when the sun goes down and people sleep"
+    },
+    {
+        "word": "communicate",
+        "lexnames": [
+            "verb.contact",
+            "verb.communication",
+            "verb.possession"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "disseminate",
+            "communicate",
+            "again",
+            "tell"
+        ],
+        "definitions": "to share ideas or knowledge with other people using language or signs"
+    },
+    {
+        "word": "greedy",
+        "lexnames": [
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "drink",
+            "eat",
+            "acquisitive"
+        ],
+        "definitions": "a way to describe somebody who wants lots and lots of food or money"
+    },
+    {
+        "word": "paper",
+        "lexnames": [
+            "noun.artifact",
+            "noun.group",
+            "verb.contact",
+            "noun.communication",
+            "noun.substance"
+        ],
+        "root_affix": [
+            "paper"
+        ],
+        "sememes": [
+            "publications",
+            "write",
+            "decorate",
+            "material",
+            "text",
+            "news",
+            "research",
+            "publish",
+            "wrap",
+            "draw"
+        ],
+        "definitions": "a material that is normally white made from trees and useful for writing on"
+    },
+    {
+        "word": "snooker",
+        "lexnames": [
+            "noun.act",
+            "verb.competition",
+            "verb.social"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "exercise",
+            "sport",
+            "engage",
+            "fact"
+        ],
+        "definitions": "a sport played on a green table with balls of different colours"
+    },
+    {
+        "word": "baseball",
+        "lexnames": [
+            "noun.act",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "round",
+            "fact",
+            "sport",
+            "SportTool",
+            "baseball",
+            "exercise"
+        ],
+        "definitions": "a sport played in the usa where you have to hit a ball with a bat"
+    },
+    {
+        "word": "sing",
+        "lexnames": [
+            "verb.communication",
+            "verb.creation"
+        ],
+        "root_affix": [
+            "s",
+            "ing"
+        ],
+        "sememes": [
+            "animal",
+            "recreation",
+            "recite",
+            "sing",
+            "cry"
+        ],
+        "definitions": "to produce a tune or music with your voice"
+    },
+    {
+        "word": "safer",
+        "lexnames": [],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "more safe than something else"
+    },
+    {
+        "word": "improve",
+        "lexnames": [
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "disease",
+            "BeWell",
+            "BeRecovered",
+            "improve"
+        ],
+        "definitions": "to make something better"
+    },
+    {
+        "word": "protect",
+        "lexnames": [
+            "verb.competition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "protect",
+            "defend"
+        ],
+        "definitions": "to take care of something and make sure that it is kept away from danger"
+    },
+    {
+        "word": "receive",
+        "lexnames": [
+            "verb.perception",
+            "verb.communication",
+            "verb.social",
+            "verb.contact",
+            "verb.consumption",
+            "verb.possession",
+            "verb.stative",
+            "verb.cognition",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "undergo",
+            "bear",
+            "receive",
+            "meet",
+            "entertain"
+        ],
+        "definitions": "when somebody gives something to you and afterwards you have it"
+    },
+    {
+        "word": "explore",
+        "lexnames": [
+            "verb.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "investigate"
+        ],
+        "definitions": "to look around a new place going to all of the different parts so that you know it better"
+    },
+    {
+        "word": "ensure",
+        "lexnames": [
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "CauseToDo",
+            "announce",
+            "guarantee"
+        ],
+        "definitions": "to make it certain that a particular event will happen"
+    },
+    {
+        "word": "smoke",
+        "lexnames": [
+            "noun.act",
+            "noun.artifact",
+            "noun.process",
+            "noun.attribute",
+            "verb.weather",
+            "noun.phenomenon",
+            "noun.communication",
+            "verb.consumption"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "waste",
+            "addict",
+            "gas",
+            "cook",
+            "jet"
+        ],
+        "definitions": "the substance that emerges from a fire when wood is burned"
+    },
+    {
+        "word": "daisy",
+        "lexnames": [
+            "noun.plant"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "FlowerGrass"
+        ],
+        "definitions": "a flower with small white petals and a fuzzy yellow centre"
+    },
+    {
+        "word": "castle",
+        "lexnames": [
+            "noun.act",
+            "verb.competition",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "place",
+            "city",
+            "facilities"
+        ],
+        "definitions": "a large building made of stones that is easy for an army to defend"
+    },
+    {
+        "word": "road",
+        "lexnames": [
+            "noun.act",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "road"
+        ],
+        "sememes": [
+            "route"
+        ],
+        "definitions": "a track or route for cars and other motor vehicles"
+    },
+    {
+        "word": "love",
+        "lexnames": [
+            "noun.person",
+            "noun.act",
+            "noun.quantity",
+            "verb.contact",
+            "noun.cognition",
+            "noun.feeling",
+            "verb.emotion"
+        ],
+        "root_affix": [
+            "love"
+        ],
+        "sememes": [
+            "like",
+            "FondOf",
+            "emotion"
+        ],
+        "definitions": "a strong emotional feeling of physical or mental attraction towards somebody"
+    },
+    {
+        "word": "family",
+        "lexnames": [
+            "noun.group",
+            "noun.person"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "lineal",
+            "human",
+            "family",
+            "NounUnit",
+            "biology",
+            "entity",
+            "animate",
+            "group"
+        ],
+        "definitions": "a group of people like a mother father and children who are all related"
+    },
+    {
+        "word": "supply",
+        "lexnames": [
+            "noun.act",
+            "noun.process",
+            "noun.quantity",
+            "verb.social",
+            "verb.consumption",
+            "verb.possession",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "artifact",
+            "provide",
+            "issue"
+        ],
+        "definitions": "to regularly provide people or an organization with things"
+    },
+    {
+        "word": "straw",
+        "lexnames": [
+            "noun.artifact",
+            "noun.attribute",
+            "adj.all",
+            "verb.contact",
+            "noun.substance"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "part",
+            "FlowerGrass",
+            "material",
+            "drink",
+            "drinks",
+            "body",
+            "crop",
+            "physiology",
+            "plant",
+            "tool"
+        ],
+        "definitions": "a thin tube that you can use to drink a drink through"
+    },
+    {
+        "word": "confuse",
+        "lexnames": [
+            "verb.cognition",
+            "verb.creation",
+            "verb.emotion"
+        ],
+        "root_affix": [
+            "con",
+            "fuse"
+        ],
+        "sememes": [
+            "blurred",
+            "deceive",
+            "ize"
+        ],
+        "definitions": "to make something hard to understand or to make it hard for someone to understand something"
+    },
+    {
+        "word": "news",
+        "lexnames": [
+            "noun.communication",
+            "noun.attribute"
+        ],
+        "root_affix": [
+            "news"
+        ],
+        "sememes": [
+            "new",
+            "information",
+            "disseminate",
+            "news"
+        ],
+        "definitions": "recent information about the world often distributed via the media"
+    },
+    {
+        "word": "message",
+        "lexnames": [
+            "noun.communication",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "information",
+            "announce",
+            "text",
+            "transmit"
+        ],
+        "definitions": "a small amount of information passed between two people"
+    },
+    {
+        "word": "speak",
+        "lexnames": [
+            "verb.perception",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "speak"
+        ],
+        "sememes": [
+            "mass",
+            "human",
+            "speak"
+        ],
+        "definitions": "to form words with your mouth so that you can communicate with other people"
+    },
+    {
+        "word": "rely",
+        "lexnames": [
+            "verb.cognition"
+        ],
+        "root_affix": [
+            "re",
+            "ly"
+        ],
+        "sememes": [
+            "depend"
+        ],
+        "definitions": "when you regularly use something or somebody to do something and you would not be able to do it otherwise"
+    },
+    {
+        "word": "basketball",
+        "lexnames": [
+            "noun.act",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "round",
+            "basketball",
+            "fact",
+            "sport",
+            "SportTool",
+            "exercise"
+        ],
+        "definitions": "a game in which two teams of five players each are trying to win points by throwing a ball through a rim placed at a certain height"
+    },
+    {
+        "word": "prepare",
+        "lexnames": [
+            "verb.perception",
+            "verb.social",
+            "verb.creation",
+            "verb.cognition",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "produce",
+            "medicine",
+            "chemical",
+            "prepare",
+            "cook"
+        ],
+        "definitions": "to get yourself or something or someone else ready to do something"
+    },
+    {
+        "word": "army",
+        "lexnames": [
+            "noun.group"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "land",
+            "part",
+            "fight",
+            "army",
+            "military"
+        ],
+        "definitions": "a group of men who fight together in the name of a country"
+    },
+    {
+        "word": "fight",
+        "lexnames": [
+            "noun.act",
+            "verb.competition",
+            "verb.social",
+            "noun.attribute",
+            "noun.communication"
+        ],
+        "root_affix": [
+            "fight"
+        ],
+        "sememes": [
+            "endeavour",
+            "fact",
+            "fight",
+            "sport",
+            "military",
+            "compete"
+        ],
+        "definitions": "a physical confrontation where people try to hurt each other"
+    },
+    {
+        "word": "camera",
+        "lexnames": [
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "TakePicture",
+            "tool",
+            "image"
+        ],
+        "definitions": "a machine for taking photographs"
+    },
+    {
+        "word": "music",
+        "lexnames": [
+            "noun.act",
+            "noun.communication",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "publications",
+            "record",
+            "music"
+        ],
+        "definitions": "noise that is tuneful and people listen to for pleasure"
+    },
+    {
+        "word": "recommend",
+        "lexnames": [
+            "verb.change",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "propose",
+            "recommend"
+        ],
+        "definitions": "when you tell other people that something is very good and the right choice"
+    },
+    {
+        "word": "headache",
+        "lexnames": [
+            "noun.state",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "urge",
+            "upset",
+            "fact",
+            "phenomena",
+            "able",
+            "head",
+            "disease",
+            "painful",
+            "medical",
+            "appear"
+        ],
+        "definitions": "a feeling of pain in the head or brain"
+    },
+    {
+        "word": "ceiling",
+        "lexnames": [
+            "noun.communication",
+            "noun.artifact",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "Boundary",
+            "part",
+            "GreaterThanNormal",
+            "building",
+            "entity",
+            "most"
+        ],
+        "definitions": "the top often flat surface of a room"
+    },
+    {
+        "word": "flight",
+        "lexnames": [
+            "noun.act",
+            "noun.artifact",
+            "verb.motion",
+            "verb.social",
+            "verb.creation",
+            "noun.group",
+            "noun.phenomenon",
+            "noun.cognition"
+        ],
+        "root_affix": [
+            "flight"
+        ],
+        "sememes": [
+            "fly",
+            "fact",
+            "tour",
+            "sky",
+            "aircraft"
+        ],
+        "definitions": "a journey in an aeroplane or the act of travelling in the air"
+    },
+    {
+        "word": "afford",
+        "lexnames": [
+            "verb.consumption",
+            "verb.stative",
+            "verb.possession"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "provide"
+        ],
+        "definitions": "when you have enough money or time that you can do or buy something that you want"
+    },
+    {
+        "word": "chocolate",
+        "lexnames": [
+            "noun.food",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "food"
+        ],
+        "definitions": "a popular brown sweet made with milk and cocoa"
+    },
+    {
+        "word": "glass",
+        "lexnames": [
+            "noun.artifact",
+            "verb.perception",
+            "noun.quantity",
+            "verb.contact",
+            "verb.possession",
+            "noun.substance",
+            "verb.change"
+        ],
+        "root_affix": [
+            "glass"
+        ],
+        "sememes": [
+            "artifact",
+            "human",
+            "material",
+            "drinks",
+            "put",
+            "tool",
+            "look",
+            "self"
+        ],
+        "definitions": "a clear material that you can see through used to make windows"
+    },
+    {
+        "word": "hear",
+        "lexnames": [
+            "verb.perception",
+            "verb.cognition",
+            "verb.social"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "perception",
+            "police",
+            "judge",
+            "know",
+            "listen",
+            "investigate",
+            "start"
+        ],
+        "definitions": "when your ears detect a sound and you are therefore aware of that sound"
+    },
+    {
+        "word": "fur",
+        "lexnames": [
+            "noun.animal",
+            "noun.substance",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "fur"
+        ],
+        "sememes": [
+            "part",
+            "animal",
+            "material",
+            "skin",
+            "tool",
+            "inlay",
+            "clothing"
+        ],
+        "definitions": "another word for hair that is used when the hair is on an animal"
+    },
+    {
+        "word": "prevent",
+        "lexnames": [
+            "verb.social"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "obstruct"
+        ],
+        "definitions": "to stop and event or action from happening either on purpose or by accident"
+    },
+    {
+        "word": "balloons",
+        "lexnames": [],
+        "root_affix": [
+            "s"
+        ],
+        "sememes": [],
+        "definitions": "inflated sacks of rubber popular at childrens parties and fairs"
+    },
+    {
+        "word": "require",
+        "lexnames": [
+            "verb.consumption",
+            "verb.communication",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "need",
+            "request"
+        ],
+        "definitions": "to have a rule that you need a specific object or thing in some situation"
+    },
+    {
+        "word": "worm",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "verb.motion",
+            "noun.communication",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "worm"
+        ],
+        "sememes": [
+            "ResultIn",
+            "timid",
+            "part",
+            "human",
+            "machine",
+            "bacteria",
+            "able",
+            "disease",
+            "medical",
+            "remove",
+            "InsectWorm"
+        ],
+        "definitions": "a small thin slimy animal with no legs that lives in earth"
+    },
+    {
+        "word": "soup",
+        "lexnames": [
+            "noun.state",
+            "noun.food",
+            "noun.substance",
+            "verb.body"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "food",
+            "cook",
+            "StateLiquid"
+        ],
+        "definitions": "a liquid food made from blended ingredients often eaten hot"
+    },
+    {
+        "word": "remain",
+        "lexnames": [
+            "verb.change",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "stay",
+            "be",
+            "exist",
+            "GoOn"
+        ],
+        "definitions": "when you stay in a particular place or state rather than changing in some way"
+    },
+    {
+        "word": "marriage",
+        "lexnames": [
+            "noun.group",
+            "noun.act",
+            "noun.state"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "GetMarried",
+            "fact",
+            "MarryTo",
+            "human"
+        ],
+        "definitions": "when a man and a woman make their relationship formal for the rest of their life"
+    },
+    {
+        "word": "fun",
+        "lexnames": [
+            "noun.act",
+            "noun.communication",
+            "noun.attribute"
+        ],
+        "root_affix": [
+            "fun"
+        ],
+        "sememes": [
+            "fact",
+            "tease",
+            "interesting",
+            "FondOf",
+            "emotion"
+        ],
+        "definitions": "something that makes you happy or makes you laugh"
+    },
+    {
+        "word": "problem",
+        "lexnames": [
+            "noun.state",
+            "noun.communication",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "problem"
+        ],
+        "definitions": "a situation or circumstance that causes difficulties or issues for somebody"
+    },
+    {
+        "word": "grass",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "noun.food",
+            "noun.plant",
+            "verb.competition",
+            "verb.consumption",
+            "verb.contact",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "grass"
+        ],
+        "sememes": [
+            "FlowerGrass",
+            "space",
+            "facilities"
+        ],
+        "definitions": "the green plant that grows all over the flat part in somebodys garden"
+    },
+    {
+        "word": "history",
+        "lexnames": [
+            "noun.communication",
+            "noun.cognition",
+            "noun.time"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "knowledge",
+            "fact",
+            "record",
+            "important",
+            "past",
+            "readings"
+        ],
+        "definitions": "all of the events that happened in the past"
+    },
+    {
+        "word": "lick",
+        "lexnames": [
+            "noun.act",
+            "verb.contact",
+            "verb.consumption",
+            "noun.object",
+            "verb.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "to brush your tongue against something to taste it or to make it wet"
+    },
+    {
+        "word": "describe",
+        "lexnames": [
+            "verb.contact",
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "describe",
+            "explain"
+        ],
+        "definitions": "to think about a place or person or thing and then to write or say many of its different properties"
+    },
+    {
+        "word": "telephone",
+        "lexnames": [
+            "noun.communication",
+            "verb.communication",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "DistanceValue",
+            "fact",
+            "communicate",
+            "LengthLong",
+            "tool"
+        ],
+        "definitions": "a machine used for talking when two people are not in the same place"
+    },
+    {
+        "word": "lust",
+        "lexnames": [
+            "noun.act",
+            "verb.consumption",
+            "noun.feeling"
+        ],
+        "root_affix": [
+            "lust"
+        ],
+        "sememes": [
+            "expect",
+            "mating",
+            "aspiration",
+            "emotion"
+        ],
+        "definitions": "a feeling of strong physical and sexual attraction"
+    },
+    {
+        "word": "stroke",
+        "lexnames": [
+            "noun.person",
+            "noun.act",
+            "noun.state",
+            "verb.competition",
+            "noun.quantity",
+            "verb.contact",
+            "noun.communication",
+            "noun.event",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "stroke"
+        ],
+        "sememes": [
+            "attack",
+            "stroke",
+            "paralyse",
+            "fact",
+            "part",
+            "rub",
+            "machine",
+            "wave",
+            "character"
+        ],
+        "definitions": "to smooth or brush the fur or skin of an animal"
+    },
+    {
+        "word": "exist",
+        "lexnames": [
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "exist",
+            "alive"
+        ],
+        "definitions": "to be alive and part of the world"
+    },
+    {
+        "word": "seem",
+        "lexnames": [
+            "verb.perception",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "BeSimilar"
+        ],
+        "definitions": "when something looks or appears or gives you the impression that it has certain properties or is in a certain state"
+    },
+    {
+        "word": "clothing",
+        "lexnames": [
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "clothing"
+        ],
+        "definitions": "things people wear to cover themselves"
+    },
+    {
+        "word": "occur",
+        "lexnames": [
+            "verb.cognition",
+            "verb.change",
+            "verb.stative"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "happen"
+        ],
+        "definitions": "when an even happens or takes place"
+    },
+    {
+        "word": "goal",
+        "lexnames": [
+            "noun.act",
+            "noun.location",
+            "noun.cognition",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "goal"
+        ],
+        "sememes": [
+            "facilities",
+            "sport",
+            "result",
+            "compete",
+            "win",
+            "purpose",
+            "exercise",
+            "football"
+        ],
+        "definitions": "the way to score a point in football"
+    },
+    {
+        "word": "technology",
+        "lexnames": [
+            "noun.act",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "knowledge",
+            "problem",
+            "handle",
+            "use"
+        ],
+        "definitions": "recent man made inventions or ideas that rely on the latest knowledge and tools"
+    },
+    {
+        "word": "ideas",
+        "lexnames": [],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "thoughts that appear in your mind"
+    },
+    {
+        "word": "write",
+        "lexnames": [
+            "verb.communication",
+            "verb.creation"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "compile",
+            "write"
+        ],
+        "definitions": "to produce words and language that people can see on paper on with your computer"
+    },
+    {
+        "word": "speaker",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "forming",
+            "institution",
+            "manage",
+            "human",
+            "Occupation",
+            "official",
+            "politics",
+            "law"
+        ],
+        "definitions": "the part of a stereo system where the music comes from"
+    },
+    {
+        "word": "elephant",
+        "lexnames": [
+            "noun.animal",
+            "noun.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "beast"
+        ],
+        "definitions": "a large animal with big ears a trunk and a long nose called a tusk"
+    },
+    {
+        "word": "green",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "adj.pert",
+            "noun.food",
+            "noun.attribute",
+            "adj.all",
+            "noun.location",
+            "noun.object",
+            "verb.change"
+        ],
+        "root_affix": [
+            "green"
+        ],
+        "sememes": [
+            "Environment",
+            "land",
+            "planting",
+            "FlowerGrass",
+            "PropertyValue",
+            "able",
+            "neg",
+            "green",
+            "protect",
+            "entity",
+            "tree"
+        ],
+        "definitions": "the colour of most plants you get it when you mix blue and yellow"
+    },
+    {
+        "word": "aunt",
+        "lexnames": [
+            "noun.person"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "human",
+            "family",
+            "collateral",
+            "female",
+            "adult",
+            "senior"
+        ],
+        "definitions": "the sister of your mother"
+    },
+    {
+        "word": "week",
+        "lexnames": [
+            "noun.time"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "time",
+            "week",
+            "Unit"
+        ],
+        "definitions": "a seven day period that ends in the weekend"
+    },
+    {
+        "word": "map",
+        "lexnames": [
+            "noun.artifact",
+            "verb.creation",
+            "verb.stative",
+            "verb.cognition",
+            "verb.change",
+            "noun.relation"
+        ],
+        "root_affix": [
+            "map"
+        ],
+        "sememes": [
+            "image",
+            "draw",
+            "earth"
+        ],
+        "definitions": "a diagram that shows the location of places in a city or country"
+    },
+    {
+        "word": "begin",
+        "lexnames": [
+            "noun.person",
+            "verb.communication",
+            "verb.social",
+            "verb.stative",
+            "verb.change"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "begin",
+            "start"
+        ],
+        "definitions": "to start a process or a programme or an action"
+    },
+    {
+        "word": "literature",
+        "lexnames": [
+            "noun.act",
+            "noun.communication",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "compile",
+            "literature",
+            "affairs",
+            "text"
+        ],
+        "definitions": "a general word for the stories or poems that are written down for other people to read"
+    },
+    {
+        "word": "petrol",
+        "lexnames": [
+            "noun.substance"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "burn",
+            "liquid",
+            "material"
+        ],
+        "definitions": "the fuel that people put in their cars"
+    },
+    {
+        "word": "mouth",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "verb.contact",
+            "noun.communication",
+            "noun.body",
+            "noun.object",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "mouth"
+        ],
+        "sememes": [
+            "location",
+            "forming",
+            "AnimalHuman",
+            "part",
+            "mouth",
+            "bird",
+            "physiology",
+            "split",
+            "viscera"
+        ],
+        "definitions": "the hole on your face where food goes in and the voice comes out"
+    },
+    {
+        "word": "user",
+        "lexnames": [
+            "noun.person"
+        ],
+        "root_affix": [
+            "user"
+        ],
+        "sememes": [
+            "human",
+            "use"
+        ],
+        "definitions": "somebody who uses something"
+    },
+    {
+        "word": "opportunity",
+        "lexnames": [
+            "noun.state"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "Possibility",
+            "suitable",
+            "event"
+        ],
+        "definitions": "the possibility or chance of doing or achieving something positive"
+    },
+    {
+        "word": "grow",
+        "lexnames": [
+            "verb.change",
+            "verb.creation",
+            "verb.stative",
+            "verb.body"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "planting",
+            "cultivate",
+            "wind",
+            "keep",
+            "BecomeMore",
+            "become",
+            "grow",
+            "happen",
+            "foster"
+        ],
+        "definitions": "when a living thing gets bigger naturally"
+    },
+    {
+        "word": "butter",
+        "lexnames": [
+            "noun.person",
+            "noun.food",
+            "verb.contact"
+        ],
+        "root_affix": [
+            "butter"
+        ],
+        "sememes": [
+            "food",
+            "material"
+        ],
+        "definitions": "fat from animal milk which you can eat cold or use in cooking"
+    },
+    {
+        "word": "remember",
+        "lexnames": [
+            "verb.cognition",
+            "verb.communication",
+            "verb.possession"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "time",
+            "remember",
+            "commemorate"
+        ],
+        "definitions": "to recreate a thought or fact or event from the past in your mind"
+    },
+    {
+        "word": "invest",
+        "lexnames": [
+            "verb.social",
+            "verb.possession"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "finance",
+            "provide",
+            "fund"
+        ],
+        "definitions": "to give you money to a person or organization because you hope they will use the money and give you more money back in the future"
+    },
+    {
+        "word": "lose",
+        "lexnames": [
+            "verb.perception",
+            "verb.competition",
+            "verb.contact",
+            "verb.possession",
+            "verb.emotion",
+            "verb.change"
+        ],
+        "root_affix": [
+            "lose"
+        ],
+        "sememes": [
+            "exhaust",
+            "CauseToDo",
+            "disappear",
+            "defeated",
+            "finance",
+            "lose"
+        ],
+        "definitions": "when you have something and then something happens and you do not have it any more"
+    },
+    {
+        "word": "maintain",
+        "lexnames": [
+            "verb.consumption",
+            "verb.stative",
+            "verb.possession",
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "maintain"
+        ],
+        "sememes": [
+            "regard",
+            "maintain",
+            "keep"
+        ],
+        "definitions": "when you keep something as it is possibly by regularly checking or repairing it"
+    },
+    {
+        "word": "solve",
+        "lexnames": [
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "Vachieve",
+            "exam",
+            "scout",
+            "problem",
+            "document",
+            "handle",
+            "reply"
+        ],
+        "definitions": "to work on or think about a problem and then find the answer"
+    },
+    {
+        "word": "allow",
+        "lexnames": [
+            "verb.social",
+            "verb.stative",
+            "verb.possession",
+            "verb.cognition",
+            "verb.communication"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "CauseToDo",
+            "agree"
+        ],
+        "definitions": "to let somebody do something because it is not against the rules"
+    },
+    {
+        "word": "enter",
+        "lexnames": [
+            "verb.competition",
+            "verb.communication",
+            "verb.motion",
+            "verb.creation",
+            "verb.social",
+            "verb.contact",
+            "verb.stative",
+            "verb.change"
+        ],
+        "root_affix": [
+            "enter"
+        ],
+        "sememes": [
+            "order",
+            "computer",
+            "GoInto",
+            "record",
+            "text"
+        ],
+        "definitions": "to go or move or travel into a particular place"
+    },
+    {
+        "word": "wine",
+        "lexnames": [
+            "noun.food",
+            "verb.consumption",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [],
+        "definitions": "a popular alcoholic drink made with grapes"
+    },
+    {
+        "word": "lake",
+        "lexnames": [
+            "noun.substance",
+            "noun.object"
+        ],
+        "root_affix": [
+            "lake"
+        ],
+        "sememes": [
+            "planar",
+            "waters"
+        ],
+        "definitions": "a large body of water that is surrounded by land"
+    },
+    {
+        "word": "homework",
+        "lexnames": [
+            "noun.act"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "fact",
+            "engage",
+            "teach",
+            "education",
+            "study"
+        ],
+        "definitions": "work that is given to school children to do away from school"
+    },
+    {
+        "word": "pizza",
+        "lexnames": [
+            "noun.food"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "food"
+        ],
+        "definitions": "an italian dish of bread covered in tomato sauce and toppings popular in the usa and other countries"
+    },
+    {
+        "word": "cancer",
+        "lexnames": [
+            "noun.person",
+            "noun.state",
+            "noun.location",
+            "noun.object",
+            "noun.animal"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "KindValue",
+            "human",
+            "ComeToWorld",
+            "control",
+            "disease",
+            "swollen",
+            "medical"
+        ],
+        "definitions": "a type of deadly illness that spreads through the body by abnormal multiplication of cells"
+    },
+    {
+        "word": "bell",
+        "lexnames": [
+            "noun.person",
+            "noun.time",
+            "noun.artifact",
+            "noun.shape",
+            "verb.contact",
+            "noun.event"
+        ],
+        "root_affix": [
+            "bell"
+        ],
+        "sememes": [
+            "LandVehicle",
+            "MakeSound",
+            "tool",
+            "sound",
+            "house"
+        ],
+        "definitions": "a simple metal instrument used to produce a loud noise found in church towers"
+    },
+    {
+        "word": "menu",
+        "lexnames": [
+            "noun.food",
+            "noun.communication",
+            "noun.cognition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "information",
+            "computer",
+            "Name",
+            "account",
+            "record",
+            "document",
+            "edible",
+            "software"
+        ],
+        "definitions": "a list of available food and drink options"
+    },
+    {
+        "word": "pride",
+        "lexnames": [
+            "noun.act",
+            "noun.attribute",
+            "noun.group",
+            "noun.feeling",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "glorious",
+            "human",
+            "self",
+            "cherish",
+            "respect",
+            "satisfied",
+            "emotion"
+        ],
+        "definitions": "a positive feeling of satisfaction at the actions or achievement of oneelf or others"
+    },
+    {
+        "word": "milk",
+        "lexnames": [
+            "noun.food",
+            "verb.consumption",
+            "noun.body",
+            "noun.object",
+            "verb.change"
+        ],
+        "root_affix": [
+            "milk"
+        ],
+        "sememes": [
+            "AnimalHuman",
+            "part",
+            "gather",
+            "BodyFluid",
+            "drink",
+            "female",
+            "drinks",
+            "feed",
+            "physiology",
+            "livestock"
+        ],
+        "definitions": "a white liquid produced by female mammals to feed their young"
+    },
+    {
+        "word": "video",
+        "lexnames": [
+            "noun.communication",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "video"
+        ],
+        "sememes": [
+            "TakePicture",
+            "shows",
+            "image"
+        ],
+        "definitions": "the medium of recorded moving images often combined with sounds"
+    },
+    {
+        "word": "mortgage",
+        "lexnames": [
+            "verb.possession",
+            "noun.possession"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "borrow",
+            "pawn",
+            "physical",
+            "lend",
+            "finance",
+            "commerce",
+            "money"
+        ],
+        "definitions": "a loan made specifically to buy a house or other property"
+    },
+    {
+        "word": "calendar",
+        "lexnames": [
+            "noun.group",
+            "verb.cognition",
+            "noun.communication",
+            "noun.time"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "day",
+            "tool",
+            "tell",
+            "law",
+            "time"
+        ],
+        "definitions": "an agenda for a whole year that includes a particular part or page for each month"
+    },
+    {
+        "word": "sea",
+        "lexnames": [
+            "noun.phenomenon",
+            "noun.quantity",
+            "noun.object"
+        ],
+        "root_affix": [
+            "sea"
+        ],
+        "sememes": [
+            "planar",
+            "waters"
+        ],
+        "definitions": "the salty water that covers much of the surface of the earth"
+    },
+    {
+        "word": "finger",
+        "lexnames": [
+            "noun.artifact",
+            "noun.quantity",
+            "verb.contact",
+            "noun.body",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "finger"
+        ],
+        "sememes": [
+            "physiology",
+            "hand",
+            "human",
+            "part"
+        ],
+        "definitions": "the pointy extremities of the hand that allow humans and monkeys to control objects"
+    },
+    {
+        "word": "east",
+        "lexnames": [
+            "noun.relation",
+            "adv.all",
+            "noun.location",
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "location",
+            "east"
+        ],
+        "definitions": "one of the directions on a compass that points right when you look at it"
+    },
+    {
+        "word": "knife",
+        "lexnames": [
+            "verb.contact",
+            "noun.artifact",
+            "noun.shape"
+        ],
+        "root_affix": [
+            "knife"
+        ],
+        "sememes": [
+            "stab",
+            "weapon",
+            "split",
+            "cut",
+            "military",
+            "tool"
+        ],
+        "definitions": "a sharp metal tool that can be used as a weapon or in a kitchen for chopping food"
+    },
+    {
+        "word": "swimming",
+        "lexnames": [
+            "noun.act",
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "swim",
+            "FuncWord"
+        ],
+        "definitions": "when a fish or animal propels itself through water"
+    },
+    {
+        "word": "potato",
+        "lexnames": [
+            "noun.food",
+            "noun.plant"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "base",
+            "eat",
+            "part",
+            "vegetable"
+        ],
+        "definitions": "a plain tasting root vegetable used as a staple food and to make chips or fries"
+    },
+    {
+        "word": "dog",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "noun.food",
+            "verb.motion",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "dog"
+        ],
+        "sememes": [
+            "chase",
+            "domesticated",
+            "livestock",
+            "follow"
+        ],
+        "definitions": "an animal that is commonly kept as a pet and is famous for loyalty to humans"
+    },
+    {
+        "word": "taste",
+        "lexnames": [
+            "noun.act",
+            "verb.perception",
+            "noun.food",
+            "verb.consumption",
+            "noun.event",
+            "noun.cognition",
+            "noun.feeling",
+            "verb.cognition"
+        ],
+        "root_affix": [
+            "taste"
+        ],
+        "sememes": [
+            "disgust",
+            "undergo",
+            "Taste",
+            "understand",
+            "be",
+            "experience",
+            "human",
+            "physical",
+            "FondOf",
+            "emotion"
+        ],
+        "definitions": "one of the five senses that is felt in the mouth"
+    },
+    {
+        "word": "salt",
+        "lexnames": [
+            "verb.perception",
+            "noun.food",
+            "adj.all",
+            "verb.contact",
+            "noun.communication",
+            "noun.cognition",
+            "noun.substance",
+            "verb.change"
+        ],
+        "root_affix": [
+            "salt"
+        ],
+        "sememes": [
+            "discuss",
+            "delimit",
+            "fact",
+            "weapon",
+            "military"
+        ],
+        "definitions": "a very common savoury white condiment or spice often found on the dining table"
+    },
+    {
+        "word": "audience",
+        "lexnames": [
+            "noun.group",
+            "noun.communication",
+            "noun.state"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "location",
+            "human",
+            "sit",
+            "listen",
+            "look"
+        ],
+        "definitions": "the name for the people watching a production in a cinema , theatre or concert hall"
+    },
+    {
+        "word": "inflation",
+        "lexnames": [
+            "noun.process",
+            "noun.act",
+            "noun.event",
+            "noun.attribute"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "phenomena",
+            "BecomeMore",
+            "feed",
+            "commerce",
+            "gas",
+            "enlarge",
+            "money"
+        ],
+        "definitions": "the process where the price of things increases across a country or economy"
+    },
+    {
+        "word": "mouse",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "noun.state",
+            "verb.motion",
+            "verb.contact",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "mouse"
+        ],
+        "sememes": [
+            "beast",
+            "computer",
+            "part",
+            "timid",
+            "human",
+            "LookFor"
+        ],
+        "definitions": "a small brown or grey rodent that likes cheese and is chased by cats"
+    },
+    {
+        "word": "snow",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "verb.weather",
+            "noun.phenomenon",
+            "noun.substance",
+            "verb.communication"
+        ],
+        "root_affix": [
+            "snow"
+        ],
+        "sememes": [
+            "WeatherBad",
+            "RainSnow"
+        ],
+        "definitions": "soft white frozen rain that falls and settles on the ground when it is cold"
+    },
+    {
+        "word": "silver",
+        "lexnames": [
+            "noun.artifact",
+            "noun.possession",
+            "noun.attribute",
+            "adj.all",
+            "verb.contact",
+            "noun.substance",
+            "verb.change"
+        ],
+        "root_affix": [
+            "silver"
+        ],
+        "sememes": [
+            "reward",
+            "fact",
+            "metal",
+            "sport",
+            "tool",
+            "PropertyValue",
+            "finance",
+            "commerce",
+            "compete",
+            "past",
+            "money",
+            "chemistry"
+        ],
+        "definitions": "a precious metal used to make the second place medal in the olympic games"
+    },
+    {
+        "word": "golf",
+        "lexnames": [
+            "noun.act",
+            "verb.competition"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "round",
+            "fact",
+            "sport",
+            "SportTool",
+            "exercise"
+        ],
+        "definitions": "a sport where metal sticks are used to hit a stationary ball into eighteen small holes"
+    },
+    {
+        "word": "resort",
+        "lexnames": [
+            "noun.act",
+            "verb.social",
+            "verb.motion",
+            "noun.attribute",
+            "noun.location"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "method",
+            "Scene",
+            "tour",
+            "request",
+            "famous",
+            "help",
+            "place"
+        ],
+        "definitions": "a town that is designed and known as a tourist destination usually in mountains or by the sea"
+    },
+    {
+        "word": "garage",
+        "lexnames": [
+            "verb.possession",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "LandVehicle",
+            "facilities",
+            "put",
+            "store"
+        ],
+        "definitions": "a part of a house or building where cars can park indoors"
+    },
+    {
+        "word": "hair",
+        "lexnames": [
+            "noun.artifact",
+            "noun.plant",
+            "noun.quantity",
+            "noun.body",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "hair"
+        ],
+        "sememes": [
+            "hair",
+            "AnimalHuman",
+            "part",
+            "human",
+            "physiology",
+            "grow"
+        ],
+        "definitions": "thin strands of living tissue that grow out of the skin of animals for warmth"
+    },
+    {
+        "word": "wing",
+        "lexnames": [
+            "noun.person",
+            "noun.artifact",
+            "noun.food",
+            "verb.motion",
+            "noun.group",
+            "noun.location",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "wing"
+        ],
+        "sememes": [
+            "location",
+            "house",
+            "wing",
+            "community",
+            "part",
+            "sport",
+            "human",
+            "fight",
+            "bird",
+            "edge",
+            "physiology",
+            "army",
+            "military",
+            "secondary",
+            "sky",
+            "aspect",
+            "aircraft",
+            "exercise",
+            "football"
+        ],
+        "definitions": "the limbs that birds move in order to fly"
+    },
+    {
+        "word": "star",
+        "lexnames": [
+            "noun.person",
+            "verb.creation",
+            "noun.shape",
+            "adj.all",
+            "noun.communication",
+            "noun.cognition",
+            "verb.stative",
+            "noun.object",
+            "verb.change"
+        ],
+        "root_affix": [
+            "star"
+        ],
+        "sememes": [
+            "eat",
+            "tour",
+            "sport",
+            "entertainment",
+            "human",
+            "recreation",
+            "reside",
+            "perform",
+            "famous",
+            "HighQuality",
+            "important",
+            "celestial",
+            "InstitutePlace",
+            "undertake"
+        ],
+        "definitions": "a shining or twinkling spot in the night sky"
+    },
+    {
+        "word": "dance",
+        "lexnames": [
+            "noun.act",
+            "verb.motion",
+            "verb.creation",
+            "noun.group",
+            "noun.communication",
+            "noun.event"
+        ],
+        "root_affix": [
+            "dance"
+        ],
+        "sememes": [
+            "fact",
+            "entertainment",
+            "recreation",
+            "shows",
+            "music"
+        ],
+        "definitions": "to move your body to music in order to look or feel good"
+    },
+    {
+        "word": "island",
+        "lexnames": [
+            "noun.artifact",
+            "noun.object"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "surround",
+            "land",
+            "waters"
+        ],
+        "definitions": "a body of land on the earth that is entirely surrounded by water"
+    },
+    {
+        "word": "patient",
+        "lexnames": [
+            "noun.person",
+            "noun.communication",
+            "adj.all"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "doctor",
+            "human",
+            "language",
+            "SufferFrom",
+            "medical",
+            "event"
+        ],
+        "definitions": "a person in a hospital who is unwell and being treated by doctors or nurses"
+    },
+    {
+        "word": "ambition",
+        "lexnames": [
+            "noun.feeling",
+            "noun.attribute",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "aspiration",
+            "willing",
+            "expect"
+        ],
+        "definitions": "the desire to improve your life or to achieve better things in your career"
+    },
+    {
+        "word": "climate",
+        "lexnames": [
+            "noun.state"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "Circumstances",
+            "event",
+            "weather"
+        ],
+        "definitions": "the general environmental and weather conditions in a country or place"
+    },
+    {
+        "word": "wood",
+        "lexnames": [
+            "noun.group",
+            "noun.substance",
+            "noun.person",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "wood"
+        ],
+        "sememes": [
+            "tree",
+            "wood",
+            "material",
+            "PropertyValue"
+        ],
+        "definitions": "the material from the branches and trunks of trees used to make things"
+    },
+    {
+        "word": "stomach",
+        "lexnames": [
+            "verb.cognition",
+            "verb.consumption",
+            "noun.body",
+            "noun.feeling"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "digest",
+            "AnimalHuman",
+            "endure",
+            "part",
+            "physiology",
+            "viscera"
+        ],
+        "definitions": "the organ in the body that is stores and digests food"
+    },
+    {
+        "word": "childhood",
+        "lexnames": [
+            "noun.state",
+            "noun.time"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "time",
+            "human",
+            "child"
+        ],
+        "definitions": "the period of your life when you are a child and grow up"
+    },
+    {
+        "word": "president",
+        "lexnames": [
+            "noun.person",
+            "noun.act"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "discuss",
+            "institution",
+            "manage",
+            "HeadOfState",
+            "fact",
+            "human",
+            "economy",
+            "InstitutePlace",
+            "teach",
+            "education",
+            "study",
+            "country",
+            "Occupation",
+            "official",
+            "politics",
+            "place",
+            "ComeTogether"
+        ],
+        "definitions": "the most important politician in various countries including the usa"
+    },
+    {
+        "word": "lip",
+        "lexnames": [
+            "noun.artifact",
+            "noun.plant",
+            "noun.communication",
+            "noun.body",
+            "noun.animal"
+        ],
+        "root_affix": [
+            "lip"
+        ],
+        "sememes": [
+            "physiology",
+            "mouth",
+            "AnimalHuman",
+            "part"
+        ],
+        "definitions": "one of the soft pads above or below your mouth used for kissing"
+    },
+    {
+        "word": "juice",
+        "lexnames": [
+            "noun.state",
+            "noun.food",
+            "noun.body",
+            "noun.phenomenon"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "liquid",
+            "drinks"
+        ],
+        "definitions": "the sweet liquid stored inside fruit that is healthy and delicious to drink"
+    },
+    {
+        "word": "river",
+        "lexnames": [
+            "noun.object"
+        ],
+        "root_affix": [
+            "river"
+        ],
+        "sememes": [
+            "linear",
+            "waters"
+        ],
+        "definitions": "a natural waterway by which water flows from mountains or hills to the sea"
+    },
+    {
+        "word": "wheel",
+        "lexnames": [
+            "verb.motion",
+            "noun.artifact",
+            "noun.attribute"
+        ],
+        "root_affix": [
+            "wheel"
+        ],
+        "sememes": [
+            "push",
+            "fierce",
+            "LandVehicle",
+            "part",
+            "MakeBad",
+            "circle",
+            "leg",
+            "tool"
+        ],
+        "definitions": "the circular parts of cars or vehicles designed to roll along the ground"
+    },
+    {
+        "word": "city",
+        "lexnames": [
+            "noun.group",
+            "noun.location"
+        ],
+        "root_affix": [
+            "city"
+        ],
+        "sememes": [
+            "place",
+            "ProperName",
+            "city"
+        ],
+        "definitions": "a place like a large town where many people live close together"
+    },
+    {
+        "word": "towel",
+        "lexnames": [
+            "verb.contact",
+            "noun.artifact"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "tool",
+            "wipe"
+        ],
+        "definitions": "a cloth used for drying people or things"
+    },
+    {
+        "word": "screen",
+        "lexnames": [
+            "noun.artifact",
+            "verb.perception",
+            "verb.competition",
+            "verb.social",
+            "noun.group",
+            "verb.contact",
+            "verb.cognition"
+        ],
+        "root_affix": [
+            "screen"
+        ],
+        "sememes": [
+            "look",
+            "information",
+            "disseminate",
+            "part",
+            "decorate",
+            "entertainment",
+            "choose",
+            "perform",
+            "check",
+            "cover",
+            "filter",
+            "display",
+            "shows",
+            "medical",
+            "tool",
+            "implement"
+        ],
+        "definitions": "the glass cover on a television , computer or mobile phone"
+    },
+    {
+        "word": "church",
+        "lexnames": [
+            "noun.group",
+            "noun.act",
+            "verb.motion",
+            "noun.artifact"
+        ],
+        "root_affix": [
+            "church"
+        ],
+        "sememes": [
+            "InstitutePlace",
+            "religion",
+            "community"
+        ],
+        "definitions": "a building where christians go to worship"
+    },
+    {
+        "word": "panic",
+        "lexnames": [
+            "noun.state",
+            "noun.feeling",
+            "verb.emotion"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "fear",
+            "emotion"
+        ],
+        "definitions": "a sudden feeling of intense worry or fear"
+    },
+    {
+        "word": "lunch",
+        "lexnames": [
+            "noun.food",
+            "verb.consumption"
+        ],
+        "root_affix": [],
+        "sememes": [
+            "eat",
+            "time",
+            "fact"
+        ],
+        "definitions": "the meal people eat in the middle of the day"
+    }
+]
